@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indien de school de Nummervoorziening nog niet heeft toegepast dient de identiteit stabiel en uniek te blijven."
+    id="0f039a0b-2c04-4e74-b2b2-17b2e43ee2d8">
+  <properties
+      key="Type"
+      value="Informatieprincipe"/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 3"/>
+  <properties
+      key="Rationale"
+      value="De identiteit wordt bij verschillende processen gebruikt en in de registraties van de verschillende partijen opgeslagen. Partijen zijn op basis hiervan in staat de identiteit de juiste vorm van dienstverlening te geven."/>
+  <properties
+      key="Implicaties"
+      value="De betrokken processen en voorzieningen moeten er voor zorgen dat de gebruiker over dezelfde identiteit kan beschikken."/>
+  <properties
+      key="Stelling"
+      value="Indien de school de Nummervoorziening nog niet heeft toegepast dient de identiteit van een gebruiker ten minste gedurende de periode dat de gebruiker verbonden is aan de onderwijsinstelling stabiel en uniek te blijven."/>
+</archimate:Requirement>

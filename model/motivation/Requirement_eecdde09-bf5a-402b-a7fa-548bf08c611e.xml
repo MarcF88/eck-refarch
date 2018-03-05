@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsinstelling levert bron voor identificatie"
+    id="eecdde09-bf5a-402b-a7fa-548bf08c611e">
+  <properties
+      key="Stelling"
+      value="De onderwijsinstelling is verantwoordelijk voor het inrichten en beschikbaar stellen van de authentieke bron voor het identificeren  van leerlingen/studenten en docenten, waarbij de identiteit geleverd wordt door de Nummervoorziening."/>
+  <properties
+      key="Rationale"
+      value="Bij de onderwijsinstelling vindt het registratieproces plaats. Vanuit efficiëntie overwegingen kan dit gebruikt worden om ook de identiteit van een gebruiker te registreren."/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 2"/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Implicaties"
+      value="De onderwijsinstelling levert per uniek te identificeren administratie een keten brede unieke identiteit voor leerlingen/studenten en docenten en maakt deze kenbaar in de keten voor gebruik bij het bepalen, bestellen, leveren, toegang en gebruiken van leermiddelen."/>
+  <properties
+      key="Type"
+      value="Informatieprincipe"/>
+</archimate:Requirement>

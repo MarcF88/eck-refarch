@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Het activeren van een licentie is het overdragen van de bijbehorende licentierechten waartoe de aanbieder en de afnemer zich conformeren. Er is vervolgens sprake van een geactiveerde licentie."
+    id="a16772f0-e1ac-4541-a843-f214601cdb29">
+  <properties
+      key="Rationale"
+      value="Er gelden na het activeren andere rechten en plichten dan na een bestelling. Het is belangrijk deze overgang te onderkennen."/>
+  <properties
+      key="Type"
+      value="Informatieprincipe"/>
+  <properties
+      key="Stelling"
+      value="Het activeren van een licentie is het overdragen van de bijbehorende licentierechten waartoe de aanbieder en de afnemer zich conformeren. Er is vervolgens sprake van een geactiveerde licentie."/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Implicaties"
+      value="Partijen kunnen het moment van activeren traceren. Bij het bestelproces moet het moment van activeren en de verbonden implicaties aan de Besteller duidelijk worden gemaakt (het moment van openen van de verpakking is bepalend voor het vervallen van het ruilrecht)."/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 23"/>
+</archimate:Requirement>

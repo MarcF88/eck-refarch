@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wanneer de Nummervoorziening nog niet is ingevoerd, is het mogelijk om een licentie te verhuizen mits vastgesteld kan worden dat de gebruiker dezelfde persoon betreft."
+    id="23f2ce3e-b39a-45ee-b0cb-e4083093f976">
+  <properties
+      key="Stelling"
+      value="Wanneer de Nummervoorziening nog niet is ingevoerd, is het mogelijk om een licentie te verhuizen mits vastgesteld kan worden dat de gebruiker dezelfde persoon betreft."/>
+  <properties
+      key="Type"
+      value="Bedrijfsprincipe"/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 12"/>
+  <properties
+      key="Rationale"
+      value="Een gebruiker kan gedurende de looptijd van de licentie een andere identiteit moeten gebruiken voor de toegang tot digitaal leermateriaal."/>
+  <properties
+      key="Implicaties"
+      value="Partijen stellen een gebruiker in staat te verhuizen, het is mogelijk om een nieuwe identiteit voor toegang te gebruiken. Partijen bepalen zelf hoe zij zekerheid verkrijgen dat de betreffende natuurlijke persoon dezelfde is."/>
+</archimate:Requirement>

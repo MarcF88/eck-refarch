@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De standaard ondersteunt het annuleren van bestellingen en leveringen welke conform commerciële condities en wettelijke bepalingen door marktpartijen onderling zelf bepaald worden."
+    id="812baee7-3741-4900-a327-d734a30724f7">
+  <properties
+      key="Implicaties"
+      value="Partijen stellen een besteller in staat om een bestelling of een levering te annuleren. De voorwaarden die hierbij gelden worden door de partijen zelf bepaald."/>
+  <properties
+      key="Stelling"
+      value="De standaard ondersteunt het annuleren van bestellingen en leveringen welke conform commerciële condities en wettelijke bepalingen door marktpartijen onderling zelf bepaald worden."/>
+  <properties
+      key="Type"
+      value="Bedrijfsprincipe"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 13"/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Rationale"
+      value="Er zijn situaties denkbaar waar een bestelling of levering geannuleerd moet worden."/>
+</archimate:Requirement>

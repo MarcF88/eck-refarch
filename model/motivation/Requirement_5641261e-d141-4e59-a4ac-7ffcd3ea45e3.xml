@@ -1,0 +1,21 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De identifiers voor curriculum gerelateerde begrippen, zoals vak worden bepaald door OBK. (copy) (copy)"
+    id="5641261e-d141-4e59-a4ac-7ffcd3ea45e3">
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Stelling"
+      value="Deze standaard doet geen uitspraken over licentievormen."/>
+  <properties
+      key="Type"/>
+  <properties
+      key="Rationale"
+      value="Binnen de Educatieve Contentketen kunnen verschillende licentievormen toegepast worden. Deze hebben geen invloed op de binnen deze standaard beschreven afspraken."/>
+  <properties
+      key="Implicaties"
+      value="Partijen zijn vrij om eigen licentievormen te kiezen."/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 28"/>
+</archimate:Requirement>

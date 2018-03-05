@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marktwerking: Alle partijen in de keten (onderwijsinstellingen, distributeurs, uitgevers, software leveranciers) worden in staat gesteld om deel te nemen en toegevoegde waarde te leveren tegen condities van deze standaard."
+    id="4937d86e-1292-432b-b955-d0b42c7dbff2">
+  <properties
+      key="Implicaties"
+      value="Partijen nemen verantwoordelijkheid en schuiven deze niet af. De ketenpartijen moeten inzicht hebben waar zij binnen de keten verantwoordelijk voor zijn en zorgen ervoor dat zij gebruikers kunnen voorzien van bruikbare informatie."/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 26"/>
+  <properties
+      key="Rationale"
+      value="Er moet voorkomen worden dat belanghebbenden van het kastje naar de muur worden gestuurd, dat de ene organisatie naar de andere verwijst."/>
+  <properties
+      key="Stelling"
+      value="Iedere ketenpartner zorgt voor een helpdesk voor het ketenproces waarvoor zij de verantwoordelijkheid heeft genomen."/>
+  <properties
+      key="Type"
+      value="Bedrijfsprincipe"/>
+  <properties
+      key="Uitspraak"/>
+</archimate:Requirement>

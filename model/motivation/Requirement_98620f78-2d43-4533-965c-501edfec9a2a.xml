@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De identifiers voor curriculum gerelateerde begrippen, zoals vak worden bepaald door OBK."
+    id="98620f78-2d43-4533-965c-501edfec9a2a">
+  <properties
+      key="ID"
+      value="ECK D&amp;T 6"/>
+  <properties
+      key="Type"
+      value="Informatieprincipe"/>
+  <properties
+      key="Stelling"
+      value="De identifiers voor curriculum gerelateerde begrippen, zoals vak worden bepaald door OBK."/>
+  <properties
+      key="Rationale"
+      value="De onderwijsinstellingen zijn niet vrij de betreffende identifiers voor dit soort gegevens te bepalen, hierop wordt centraal beheer gevoerd door OBK."/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Implicaties"
+      value="Partijen registreren de nieuw te gebruiken begrippen bij OBK. Dit kan eventueel indirect via SBB of SLO."/>
+</archimate:Requirement>

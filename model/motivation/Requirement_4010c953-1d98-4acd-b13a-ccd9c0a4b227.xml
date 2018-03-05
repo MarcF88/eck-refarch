@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Een niet aangesproken licentie (nog niet geactiveerd) moet conform de wettelijke bepalingen weer ten gunste kunnen worden gesteld."
+    id="4010c953-1d98-4acd-b13a-ccd9c0a4b227">
+  <properties
+      key="Type"
+      value="Bedrijfsprincipe"/>
+  <properties
+      key="Rationale"
+      value="Er gelden bij een niet actieve licentie andere rechten/plichten dan bij een geactiveerde licentie. Een niet geactiveerde licentie kan weer ten gunste worden gesteld. Binnen wettelijke kaders kan de invulling hiervan per partij verschillen."/>
+  <properties
+      key="Stelling"
+      value="Een niet aangesproken licentie (nog niet geactiveerd) moet conform de wettelijke bepalingen weer ten gunste kunnen worden gesteld."/>
+  <properties
+      key="Implicaties"
+      value="Niet geactiveerde licenties moeten weer ten gunste kunnen worden gesteld."/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 11"/>
+</archimate:Requirement>

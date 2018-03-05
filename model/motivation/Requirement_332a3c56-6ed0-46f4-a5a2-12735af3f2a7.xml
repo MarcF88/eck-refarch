@@ -1,0 +1,21 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deze standaard doet geen uitspraken over licentievormen."
+    id="332a3c56-6ed0-46f4-a5a2-12735af3f2a7">
+  <properties
+      key="Rationale"
+      value="Iedere partij is vrij elke rol te vervullen zolang de uitvoering hiervan conform de eisen van deze standaard is."/>
+  <properties
+      key="Stelling"
+      value="Marktwerking: Alle partijen in de keten (onderwijsinstellingen, distributeurs, uitgevers, software leveranciers) worden in staat gesteld om deel te nemen en toegevoegde waarde te leveren tegen condities van deze standaard."/>
+  <properties
+      key="Implicaties"
+      value="Deelnemers moeten voldoen aan de condities die de standaard stelt."/>
+  <properties
+      key="Type"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 27"/>
+  <properties
+      key="Uitspraak"/>
+</archimate:Requirement>

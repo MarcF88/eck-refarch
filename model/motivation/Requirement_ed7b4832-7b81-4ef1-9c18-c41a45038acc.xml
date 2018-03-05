@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Een profiel wordt geïdentificeerd door de keten brede unieke identiteit van de gebruiker."
+    id="ed7b4832-7b81-4ef1-9c18-c41a45038acc">
+  <properties
+      key="Type"
+      value="Informatieprincipes"/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 25"/>
+  <properties
+      key="Rationale"
+      value="Ketenpartijen zijn vrij om profielen op te bouwen over identiteiten, zodat de gebruiker niet iedere keer om profielinformatie gevraagd hoeft te worden. Waar dit van toepassing is, is hiervoor vooraf toestemming door de gebruiker gegeven. Zo kan een distributeur NAW-gegevens van een identiteit registreren en een uitgever kan bij dezelfde identiteit voortgangsgegevens bijhouden."/>
+  <properties
+      key="Implicaties"
+      value="Voor de betreffende ketenpartij moet de identiteit uniek en persistent zijn."/>
+  <properties
+      key="Stelling"
+      value="Een profiel wordt geïdentificeerd door de keten brede unieke identiteit van de gebruiker."/>
+</archimate:Requirement>

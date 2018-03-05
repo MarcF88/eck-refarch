@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De keten brede unieke pseudo identiteit van gebruikers zal door alle partijen één op één worden gekoppeld aan de volgende partij in de keten."
+    id="65bc754d-6b8a-4882-97da-a372396790fc">
+  <properties
+      key="Implicaties"
+      value="De onderwijsinstelling is de bronhouder van de identiteit. Ketenpartijen moeten er voor zorgdragen dat deze identiteit gebruikt wordt bij de betreffende processen, dat deze in de lokale registers opgenomen wordt en dat bij gegevensuitwisseling deze identiteit doorgegeven wordt."/>
+  <properties
+      key="Stelling"
+      value="De keten brede unieke pseudo identiteit van gebruikers zal door alle partijen één op één worden gekoppeld aan de volgende partij in de keten."/>
+  <properties
+      key="Rationale"
+      value="De keten is een samenwerkingsverband en ketenpartijen hebben afhankelijkheden naar elkaar. Een van deze afhankelijkheden is om de begunstigde van een bestelling bij de ene partij te kunnen relateren aan een identiteit die om toegang tot leermateriaal vraagt bij de andere partij."/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Type"
+      value="Informatieprincipe"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 16"/>
+</archimate:Requirement>

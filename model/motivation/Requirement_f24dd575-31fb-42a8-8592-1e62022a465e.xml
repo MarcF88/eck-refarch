@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indien er niet gewerkt wordt met individuele licenties, dan kan de toegang uitgevoerd worden op basis van de identiteit van de onderwijsinstelling."
+    id="f24dd575-31fb-42a8-8592-1e62022a465e">
+  <properties
+      key="Stelling"
+      value="Indien er niet gewerkt wordt met individuele licenties, dan kan de toegang uitgevoerd worden op basis van de identiteit van de onderwijsinstelling."/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Implicaties"
+      value="Binnen de keten moet het mogelijk zijn een gebruiker betrouwbaar te herleiden naar een onderwijsinstelling."/>
+  <properties
+      key="Rationale"
+      value="De identiteit van een gebruiker is niet altijd te herleiden naar een bestelling. Indien dit het geval is kan toegang verleend worden doordat de betreffende gebruiker te herleiden is naar de bestelling van de onderwijsinstelling."/>
+  <properties
+      key="Type"
+      value="Informatieprincipe"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 24"/>
+</archimate:Requirement>

@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Single sign-on toegang wordt ondersteund voor digitaal leermateriaal dat aan het interne of federatie domein gekoppeld is."
+    id="423cc0a1-70f5-4702-895c-d97aea09ccd3">
+  <properties
+      key="Rationale"
+      value="Indien gebruikers ingelogd zijn hoeven zij niet opnieuw in te loggen als zij gebruik maken van een dienst die op het interne domein of federatieve domein is aangesloten."/>
+  <properties
+      key="Type"
+      value="Technisch principe"/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Stelling"
+      value="Single sign-on toegang wordt ondersteund voor digitaal leermateriaal dat aan het interne of federatie domein gekoppeld is."/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 19"/>
+  <properties
+      key="Implicaties"
+      value="Binnen het interne of federatieve domein moet geregeld worden dat aangesloten diensten zonder opnieuw in te loggen toegankelijk zijn"/>
+</archimate:Requirement>

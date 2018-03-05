@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De ECK standaard distributie &amp; toegang ondersteunt het bestellen en leveren van alle producten met een product id."
+    id="19762e09-89e6-4c2f-9119-fa43e7ce53a5">
+  <properties
+      key="Rationale"
+      value="Binnen de ECK keten wordt een verscheidenheid van productcategorieën gebruikt welke deze standaard ook moet ondersteunen. Digitale producten, folio producten, combiproducten en producten zoals het rekenmachine en de werkschoenen."/>
+  <properties
+      key="Implicaties"
+      value="n de uitwerking van de processen, de functionele componenten en de technische standaard moeten alle vormen ondersteund worden en waar nodig expliciet beschreven worden."/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Stelling"
+      value="De ECK standaard distributie &amp; toegang ondersteunt het bestellen en leveren van alle producten met een product id."/>
+  <properties
+      key="Type"
+      value="Informatieprincipe"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 4"/>
+</archimate:Requirement>

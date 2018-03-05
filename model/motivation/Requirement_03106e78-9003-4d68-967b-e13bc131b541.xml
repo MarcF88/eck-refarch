@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegangsadressen zijn duurzaam gedurende ten minste de looptijd van de licentie."
+    id="03106e78-9003-4d68-967b-e13bc131b541">
+  <properties
+      key="Implicaties"
+      value="Vanuit het perspectief van de gebruiker moet het toegangsadres blijven werken. Als partijen een bepaald toegangsadres voor een bepaald leermiddel hebben ontsloten dan moet deze blijven werken zolang er actieve licenties zijn."/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 15"/>
+  <properties
+      key="Type"
+      value="Informatieprincipe"/>
+  <properties
+      key="Stelling"
+      value="Toegangsadressen zijn duurzaam gedurende ten minste de looptijd van de licentie."/>
+  <properties
+      key="Rationale"
+      value="Nadat een leermiddel besteld is verkrijgt men toegang via het toegangsadres. Het kan zijn dat deze opgeslagen wordt voor hergebruik en het is dus van belang dat deze niet wijzigt."/>
+  <properties
+      key="Uitspraak"/>
+</archimate:Requirement>

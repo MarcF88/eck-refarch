@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegang wordt verleend op basis van identiteiten en is niet afhankelijk van profielinformatie."
+    id="0d45e2f4-2ad9-4959-8a1f-b9c08b695c4f">
+  <properties
+      key="Stelling"
+      value="Toegang wordt verleend op basis van identiteiten en is niet afhankelijk van profielinformatie."/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 17"/>
+  <properties
+      key="Rationale"
+      value="Autorisatie kan uitgevoerd worden op basis van een identiteit, hiervoor is geen overige profielinformatie noodzakelijk."/>
+  <properties
+      key="Implicaties"
+      value="Voor de toegang tot een digitaal leermiddel is enkel een persoonlijke identiteit of de identiteit van de onderwijsinstelling noodzakelijk."/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Type"
+      value="Informatieprincipe"/>
+</archimate:Requirement>

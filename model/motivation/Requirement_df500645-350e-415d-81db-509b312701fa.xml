@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Na aanschaf van een licentie hebben de besteller, betaler en/of gebruiker recht op inzicht in de status van de licentie."
+    id="df500645-350e-415d-81db-509b312701fa">
+  <properties
+      key="Implicaties"
+      value="De besteller, betaler en/of gebruiker kan inzicht krijgen in de actuele eigenschappen van de licentie."/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Rationale"
+      value="Belanghebbenden kunnen met inzicht van de actuele eigenschappen van de licentie beter bepalen wat mogelijk een bron van een probleem kan zijn en kunnen hierdoor meer gericht handelen."/>
+  <properties
+      key="Type"
+      value="Bedrijfsprincipe"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 8"/>
+  <properties
+      key="Stelling"
+      value="Na aanschaf van een licentie hebben de besteller, betaler en/of gebruiker recht op inzicht in de status van de licentie."/>
+</archimate:Requirement>

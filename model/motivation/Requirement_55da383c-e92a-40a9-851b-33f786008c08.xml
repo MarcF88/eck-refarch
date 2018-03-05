@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De toegangsadressen zijn gepersonaliseerd en worden getoond in de onderwijsleeromgeving."
+    id="55da383c-e92a-40a9-851b-33f786008c08">
+  <properties
+      key="ID"
+      value="ECK D&amp;T 14"/>
+  <properties
+      key="Rationale"
+      value="Na het bestellen moet een gebruiker het leermiddel kunnen vinden. Hiertoe worden in de onderwijsleeromgeving de betreffende toegangsadressen opgenomen."/>
+  <properties
+      key="Stelling"
+      value="De toegangsadressen zijn gepersonaliseerd en worden getoond in de onderwijsleeromgeving."/>
+  <properties
+      key="Implicaties"
+      value="De standaard beschrijft de benodigde gegevensuitwisseling tussen een onderwijsleeromgeving en uitgever om dit mogelijk te maken."/>
+  <properties
+      key="Type"
+      value="Informatieprincipe"/>
+  <properties
+      key="Uitspraak"/>
+</archimate:Requirement>

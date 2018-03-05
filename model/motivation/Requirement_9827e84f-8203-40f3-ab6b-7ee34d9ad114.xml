@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De catalogusinformatie bestaat uit actuele, toekomstige en historische informatie."
+    id="9827e84f-8203-40f3-ab6b-7ee34d9ad114">
+  <properties
+      key="Rationale"
+      value="Partijen zijn vrij om actuele, toekomstige en historische gegevens van leermateriaal te ontsluiten. Zo kan bijvoorbeeld een uitgever besluiten informatie te ontsluiten van leermateriaal welke op het moment van bepalen nog niet te bestellen of te gebruiken is."/>
+  <properties
+      key="Type"
+      value="Informatieprincipe"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 5"/>
+  <properties
+      key="Implicaties"
+      value="De betreffende voorzieningen kunnen het onderscheid tussen actuele, toekomstige en historische informatie ondersteunen."/>
+  <properties
+      key="Stelling"
+      value="De catalogusinformatie bestaat uit actuele, toekomstige en historische informatie."/>
+  <properties
+      key="Uitspraak"/>
+</archimate:Requirement>

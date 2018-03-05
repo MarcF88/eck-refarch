@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepalen, bestellen, betalen, leveren, toegang, gebruik"
+    id="2b3fe281-3574-4418-8ffb-5728c2e3bfd6">
+  <properties
+      key="Stelling"
+      value="De architectuur richt zich binnen het VO en MBO op het proces van: het bepalen van de set aan leermiddelen door de onderwijsinstelling; het bestellen en betalen* door de leerling/student, ouder, werkgever of onderwijsinstelling van leermiddelen bij een distributeur en het plaatsen van een bestelling door de distributeur bij de uitgever om de leermiddelen geleverd te krijgen; het leveren van de leermiddelen door de uitgever aan de distributeur en het leveren van de leermiddelen door de distributeur aan de onderwijsinstelling dan wel gebruiker  het toegang  het gebruik van het leermiddel door de gebruiker verlenen door de uitgever aan de gebruiker tot het leermiddel"/>
+  <properties
+      key="Implicaties"
+      value="De standaard beschrijft de ketenprocessen en de functionele en technische aspecten die hiermee samenhangen. Het geheel vormt een beschrijving van een (gesloten) systeem voor de distributie en toegang van leermiddelen."/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Type"
+      value="Bedrijfsprincipe"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 1"/>
+  <properties
+      key="Rationale"
+      value="Het is belangrijk duidelijk de kaders te stellen waarbinnen de standaard van toepassing is. Er zijn tevens ondersteunende (sub)processen, bijvoorbeeld het authenticeren bij het proces Toegang. Deze worden bij de betreffende processen verder toegelicht."/>
+</archimate:Requirement>

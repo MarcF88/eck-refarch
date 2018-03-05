@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Na de levering van een licentie is deze direct te gebruiken."
+    id="0da8f897-2548-4ecf-b2bb-576bb2f5c00d">
+  <properties
+      key="Stelling"
+      value="Na de levering van een licentie is deze direct te gebruiken."/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 22"/>
+  <properties
+      key="Type"
+      value="Bedrijfsprincipe"/>
+  <properties
+      key="Implicaties"
+      value="Binnen de keten moeten de benodigde processen zodanig ondersteund worden dat dit mogelijk is."/>
+  <properties
+      key="Rationale"
+      value="Een gebruiker moet direct over het leermiddel kunnen beschikken."/>
+  <properties
+      key="Uitspraak"/>
+</archimate:Requirement>

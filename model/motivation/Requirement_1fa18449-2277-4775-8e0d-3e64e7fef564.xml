@@ -1,0 +1,21 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De uitgever van een leermiddel bepaalt de keten brede unieke en persistente identifier van het leermiddel."
+    id="1fa18449-2277-4775-8e0d-3e64e7fef564">
+  <properties
+      key="Rationale"
+      value="Niet de handelaar, maar de uitgever van het leermiddel bepaalt de identifier van het leermiddel. Er zijn momenteel meerdere standaarden voor dit gegeven zoals EAN en UPI3. Persistentie is noodzakelijk omdat indien de identifier tussentijds wijzigt dit voor stagnatie kan zorgen."/>
+  <properties
+      key="Type"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 7"/>
+  <properties
+      key="Implicaties"
+      value="Leermiddelen dienen uniek te worden geïdentificeerd binnen de keten, de uitgever is hier verantwoordelijk voor. Zij mogen in principe de identifier voor een leermiddel niet wijzigen. In het uitzonderlijke geval dit toch noodzakelijk is dient de betreffende uitgever er voor te zorgen dat de uitgevoerde wijzigingsprocedure stagnatie van de ECK processen voorkomt."/>
+  <properties
+      key="Stelling"
+      value="De uitgever van een leermiddel bepaalt de keten brede unieke en persistente identifier van het leermiddel."/>
+  <properties
+      key="Uitspraak"/>
+</archimate:Requirement>

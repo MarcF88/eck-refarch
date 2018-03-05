@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Een besteller kan op basis van zijn kenmerken eventuele contract afspraken selecteren/activeren."
+    id="df83cbc9-32b8-4fc3-8b68-c7d0c3c87ccc">
+  <properties
+      key="Rationale"
+      value="Speciale voorwaarden kunnen worden afgesproken op niveau van een individu, maar ook op basis van bepaalde kenmerken, zoals opleiding of Instelling."/>
+  <properties
+      key="Stelling"
+      value="Een besteller kan op basis van zijn kenmerken eventuele contract afspraken selecteren/activeren."/>
+  <properties
+      key="Type"
+      value="Informatieprincipe"/>
+  <properties
+      key="Implicaties"
+      value="De speciale contractvoorwaarden zoals leveringsvoorwaarden of prijs kunnen worden gerelateerd aan profielinformatie van de besteller."/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 9"/>
+</archimate:Requirement>

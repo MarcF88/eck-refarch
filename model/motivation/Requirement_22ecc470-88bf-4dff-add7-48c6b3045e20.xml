@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Het moment van activeren van de licentie en de wijze waarop dit gebeurt wordt bepaald door de uitgever."
+    id="22ecc470-88bf-4dff-add7-48c6b3045e20">
+  <properties
+      key="Rationale"
+      value="Uitgevers bepalen zelf hoe zij het activeren vormgeven. Voor bestellers en gebruikers is het inzichtelijk wanneer voor het bestelde leermiddel de licentie overgaat in een geactiveerde licentie."/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 20"/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Implicaties"
+      value="Deze afspraak schrijft niet voor wat het moment van activeren is of de wijze waarop dit plaatsvindt, maar het is wel voor de gebruiker inzichtelijk dat dit heeft plaatsgevonden."/>
+  <properties
+      key="Stelling"
+      value="Het moment van activeren van de licentie en de wijze waarop dit gebeurt wordt bepaald door de uitgever."/>
+  <properties
+      key="Type"
+      value="Bedrijfsprincipe"/>
+</archimate:Requirement>

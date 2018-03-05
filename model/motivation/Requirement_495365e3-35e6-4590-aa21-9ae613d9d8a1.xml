@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voor het identificeren van onderwijsinstellingen en/of onderdelen van deze instelling ten behoeve van de leermiddelenketen wordt gewerkt met één unieke identiteit, die ketenbreed toegepast wordt."
+    id="495365e3-35e6-4590-aa21-9ae613d9d8a1">
+  <properties
+      key="Rationale"
+      value="Bij processen als Toegang en Gebruik kan dit een belangrijk gegeven zijn. Een onderwijsinstelling kan een bestelling hebben gedaan en gebruikers moeten toegang kunnen krijgen op basis van de identiteit van de onderwijsinstelling die als attribuut bij de identiteit van de gebruiker opgenomen is."/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Type"
+      value="Informatieprincipe"/>
+  <properties
+      key="Stelling"
+      value="Voor het identificeren van onderwijsinstellingen en/of onderdelen van deze instelling ten behoeve van de leermiddelenketen wordt gewerkt met één unieke identiteit, die ketenbreed toegepast wordt."/>
+  <properties
+      key="Implicaties"
+      value="Deze standaard beschrijft welke onderwijsinstellingsidentiteit gebruikt wordt voor de identificatie van een onderwijsinstelling. Mogelijk wordt hiervoor verwezen naar het SION IAA project en/of de bij Tafel Toegang van het Doorbraakproject behaalde resultaten."/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 18"/>
+</archimate:Requirement>

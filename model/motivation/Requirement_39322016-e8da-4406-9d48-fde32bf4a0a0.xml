@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="De besteller die voor een gebruiker bestelt kan de leerling/student zelf zijn, een ouder, een onderwijsinstelling of een werkgever."
+    id="39322016-e8da-4406-9d48-fde32bf4a0a0">
+  <properties
+      key="Stelling"
+      value="De besteller die voor een gebruiker bestelt kan de leerling/student zelf zijn, een ouder, een onderwijsinstelling of een werkgever."/>
+  <properties
+      key="Uitspraak"/>
+  <properties
+      key="Implicaties"
+      value="Er worden verschillende distributie- en toegangsscenario’s ondersteund. Zo kan bijvoorbeeld de besteller en betaler een ouder of de onderwijsinstelling van de gebruiker zijn. De verschillende rollen bij distributie en toegang kunnen onafhankelijk worden gespecificeerd."/>
+  <properties
+      key="Rationale"
+      value="Het moet mogelijk zijn dat de identiteiten van de besteller, betaler en gebruiker verschillend zijn."/>
+  <properties
+      key="Type"
+      value="Bedrijfsprincipe"/>
+  <properties
+      key="ID"
+      value="ECK D&amp;T 10"/>
+</archimate:Requirement>
