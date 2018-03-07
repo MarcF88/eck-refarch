@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scope ECK ID"
+    id="3efd157a-77cf-45e3-be0a-438a801e8dce">
+  <properties
+      key="ID"
+      value="10"/>
+  <properties
+      key="Besluit"
+      value="De nummervoorziening levert het ECK iD. Dit nummer mag alleen ingezet worden binnen de educatieve leermiddelenketen voor de processen bestellen, leveren en toegang (authenticatie, autorisatie). Tevens kan het nummer gebruikt worden binnen de keten om een leerresultaat terug te koppelen aan het voortgangssysteem van de school. De leermiddelenketen bestaat uit scholen, uitgevers, distributeurs en softwareleveranciers van elektronische leeromgevingen en leerling administratiesystemen. Het betreft alle publieke en private partijen betrokken bij het proces van bestellen, leveren, toegang en terugkoppeling van leermiddelen/resultaten."/>
+  <properties
+      key="Genomendoor"
+      value="Stuurgroep Doorbraakproject Onderwijs en ICT"/>
+  <properties
+      key="Datum"
+      value="3-12-2015"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Implementatiekaders nummervoorziening"/>
+</archimate:Requirement>

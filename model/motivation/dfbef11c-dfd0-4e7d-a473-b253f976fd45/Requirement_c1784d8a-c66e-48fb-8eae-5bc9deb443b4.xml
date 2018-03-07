@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataminimalisatie (en doelbinding) zijn doelen van de implementatie van het ECK iD"
+    id="c1784d8a-c66e-48fb-8eae-5bc9deb443b4">
+  <properties
+      key="ID"
+      value="31"/>
+  <properties
+      key="Besluit"
+      value="Dataminimalisatie (en doelbinding) zijn doelen van de implementatie van het ECK iD"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="16-11-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Bron: Memo Doelen en aandachtsgebieden implementatie nummervoorziening"/>
+</archimate:Requirement>

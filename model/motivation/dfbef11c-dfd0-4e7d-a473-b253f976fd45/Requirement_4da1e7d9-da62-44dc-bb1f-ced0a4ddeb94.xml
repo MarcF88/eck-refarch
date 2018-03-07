@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Keuzemogelijkheden voor school"
+    id="4da1e7d9-da62-44dc-bb1f-ced0a4ddeb94">
+  <properties
+      key="ID"
+      value="12"/>
+  <properties
+      key="Besluit"
+      value="Een school kan daarom op basis van een bewerkersovereenkomst een keuze maken om de volgende gegevens beschikbaar te stellen; o Edu-K iD (standaard), o Voornaam, o Eerste letter achternaam, o BRIN, o Locatie School, o Groep. Het gesprek over een wenselijke attributenset wordt in Edu-K gevoerd."/>
+  <properties
+      key="Genomendoor"
+      value="Stuurgroep Doorbraakproject Onderwijs en ICT"/>
+  <properties
+      key="Datum"
+      value="3-12-2015"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK-ID"/>
+  <properties
+      key="Bron"
+      value="Implementatiekaders nummervoorziening"/>
+</archimate:Requirement>

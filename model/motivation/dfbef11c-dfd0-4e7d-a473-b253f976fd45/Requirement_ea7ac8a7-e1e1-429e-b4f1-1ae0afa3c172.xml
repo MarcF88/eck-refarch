@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruik: regie op uitwisseling bij de school"
+    id="ea7ac8a7-e1e1-429e-b4f1-1ae0afa3c172">
+  <properties
+      key="ID"
+      value="37"/>
+  <properties
+      key="Besluit"
+      value="Gebruik van het ECK iD stelt scholen in staat om meer regie te nemen over de uitwisseling van persoonsgegevens door gebruik te maken van een uniforme uitwisselroute i.r.t. het ECK iD"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="16-11-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Bron: Memo Doelen en aandachtsgebieden implementatie nummervoorziening"/>
+</archimate:Requirement>

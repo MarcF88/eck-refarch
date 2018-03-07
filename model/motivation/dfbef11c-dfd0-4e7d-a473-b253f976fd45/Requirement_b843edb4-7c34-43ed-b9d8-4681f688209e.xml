@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meenemen van resultaten over sectoren heen"
+    id="b843edb4-7c34-43ed-b9d8-4681f688209e">
+  <properties
+      key="ID"
+      value="29"/>
+  <properties
+      key="Besluit"
+      value="Het maken van afspraken over het meenemen van resultaten of pseudoniem tussen verschillende bevoegde gezagen is binnen de scope van het programma Implementatie ECK iD"/>
+  <properties
+      key="Genomendoor"
+      value="edu-K"/>
+  <properties
+      key="Datum"
+      value="16-11-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Verslag Edu-K"/>
+</archimate:Requirement>

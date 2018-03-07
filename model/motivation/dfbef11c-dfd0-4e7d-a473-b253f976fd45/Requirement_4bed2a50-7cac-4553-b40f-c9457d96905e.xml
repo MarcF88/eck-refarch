@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scholen moeten kunnen kiezen welke gegevens zij beschikbaar stellen"
+    id="4bed2a50-7cac-4553-b40f-c9457d96905e">
+  <properties
+      key="ID"
+      value="11"/>
+  <properties
+      key="Besluit"
+      value="Scholen moeten kunnen kiezen welke gegevens zij aan leveranciers beschikbaar stellen, een nul-schenario (alleen het ECK iD) moet ook tot de opties behoren"/>
+  <properties
+      key="Genomendoor"
+      value="Stuurgroep Doorbraakproject Onderwijs en ICT"/>
+  <properties
+      key="Datum"
+      value="3-12-2015"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Implementatiekaders nummervoorziening"/>
+</archimate:Requirement>

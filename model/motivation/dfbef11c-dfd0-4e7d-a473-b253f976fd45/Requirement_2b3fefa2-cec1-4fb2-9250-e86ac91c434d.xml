@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Edu-K neemt de regie op implementatie standaarden UWLR en Distributie en toegang op zich"
+    id="2b3fefa2-cec1-4fb2-9250-e86ac91c434d">
+  <properties
+      key="ID"
+      value="8"/>
+  <properties
+      key="Besluit"
+      value="Edu-K neemt de regie op implementatie standaarden UWLR en Distributie en toegang op zich"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="7-10-2015"/>
+  <properties
+      key="Onderwerpen"
+      value="Governance"/>
+  <properties
+      key="Bron"/>
+</archimate:Requirement>

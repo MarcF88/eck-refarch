@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruik: draagt bij aan gelijk speelveld"
+    id="fa5192f9-88df-4892-9307-f03f1ab41ef8">
+  <properties
+      key="ID"
+      value="39"/>
+  <properties
+      key="Besluit"
+      value="Gebruik van het ECK iD draagt bij aan een gelijk speelveld doordat overstappen van dienstenleverancier voor scholen gemakkelijker wordt"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="16-11-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Bron: Memo Doelen en aandachtsgebieden implementatie nummervoorziening"/>
+</archimate:Requirement>

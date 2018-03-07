@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doel: voorkomen fouten bij migraties"
+    id="c81d1c77-4a85-4a3d-8af7-10c068b11ddf">
+  <properties
+      key="ID"
+      value="33"/>
+  <properties
+      key="Besluit"
+      value="Doel van gebruik van het ECK iD is het voorkomen van fouten bij (systeem)migraties en maakt opnieuw matchen (en testen) overbodig"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="16-11-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Bron: Memo Doelen en aandachtsgebieden implementatie nummervoorziening"/>
+</archimate:Requirement>

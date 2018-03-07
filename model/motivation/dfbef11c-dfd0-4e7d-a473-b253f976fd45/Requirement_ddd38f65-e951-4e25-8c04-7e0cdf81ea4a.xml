@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruik: inrichten fallback scenario"
+    id="ddd38f65-e951-4e25-8c04-7e0cdf81ea4a">
+  <properties
+      key="ID"
+      value="36"/>
+  <properties
+      key="Besluit"
+      value="Gebruik van het ECK iD maakt het mogelijk een fall back scenario in te richten bij storing op een leerplatform"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="16-11-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Bron: Memo Doelen en aandachtsgebieden implementatie nummervoorziening"/>
+</archimate:Requirement>

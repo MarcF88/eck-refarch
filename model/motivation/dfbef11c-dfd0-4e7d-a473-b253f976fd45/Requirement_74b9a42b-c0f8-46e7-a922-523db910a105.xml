@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="In het domein Toegang tot leermateriaal zijn BDL en Basispoort vertegenwoordigd als uitvoeringsorganisaties"
+    id="74b9a42b-c0f8-46e7-a922-523db910a105">
+  <properties
+      key="ID"
+      value="17"/>
+  <properties
+      key="Besluit"
+      value="In het domein Toegang tot leermateriaal zijn BDL en Basispoort vertegenwoordigd als uitvoeringsorganisaties"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="3-12-2015"/>
+  <properties
+      key="Onderwerpen"
+      value="Governance"/>
+  <properties
+      key="Bron"
+      value="Verslag Edu-K 03-12-2015"/>
+</archimate:Requirement>

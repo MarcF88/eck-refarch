@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maatregelen voor overdracht van ECK ID"
+    id="57b2621e-c138-42f6-96f8-4db282b1224b">
+  <properties
+      key="ID"
+      value="15"/>
+  <properties
+      key="Besluit"
+      value="Transactie – Tijdens de implementatie van het Edu-K iD hanteren we Edukoppeling als transactiestandaard. De standaard geeft weer hoe organisaties in het onderwijs op een eenduidige veilige manier (vertrouwelijke) gegevens met elkaar kunnen uitwisselen."/>
+  <properties
+      key="Genomendoor"
+      value="Stuurgroep Doorbraakproject Onderwijs en ICT"/>
+  <properties
+      key="Datum"
+      value="3-12-2015"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Implementatiekaders nummervoorziening"/>
+</archimate:Requirement>

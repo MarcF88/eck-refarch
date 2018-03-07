@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doel: reductie complexiteit in de keten"
+    id="d61770d8-07e4-4818-811b-5871c6fde9c0">
+  <properties
+      key="ID"
+      value="35"/>
+  <properties
+      key="Besluit"
+      value="Doel van gebruik van het ECK iD is reductie van de complexiteit in de keten"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="16-11-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Bron: Memo Doelen en aandachtsgebieden implementatie nummervoorziening"/>
+</archimate:Requirement>

@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Succesfactoren imlpementatie ECK ID"
+    id="30c148cb-3751-4544-9f6f-5c3e153bf748">
+  <properties
+      key="ID"
+      value="9"/>
+  <properties
+      key="Besluit"
+      value="De implementatie van het ECK iD is succesvol als de school als verantwoordelijke [...] in staat is gesteld doelbinding en dataminimalisatie mogelijk te maken ten behoeve van het gebruik van digitaal  leermateriaal. Tevens is met de implementatie meer gebruiksgemak gerealiseerd en zijn er minder matchingsproblemen tussen de ystemen."/>
+  <properties
+      key="Genomendoor"
+      value="Stuurgroep Doorbraakproject Onderwijs en ICT"/>
+  <properties
+      key="Datum"
+      value="3-12-2015"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Implementatiekaders nummervoorziening"/>
+</archimate:Requirement>

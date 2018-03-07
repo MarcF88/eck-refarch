@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doel: voorkomen fouten bij overstap leerling"
+    id="c855342d-e824-41ab-9b73-6c7e25678661">
+  <properties
+      key="ID"
+      value="34"/>
+  <properties
+      key="Besluit"
+      value="Doel van gebruik van het ECK iD is het voorkomen van fouten bij overstap van een leerling naar een andere school binnen dezelfde sector en maakt opnieuw matchen overbodig"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="16-11-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Bron: Memo Doelen en aandachtsgebieden implementatie nummervoorziening"/>
+</archimate:Requirement>

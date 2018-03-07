@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vaststelling convenant Digitale Onderwijsmiddelen en Privacy 2.0"
+    id="918a10a8-0294-4c38-bfdb-3c9ab8fcefb7">
+  <properties
+      key="ID"
+      value="20"/>
+  <properties
+      key="Besluit"
+      value="Vaststelling convenant Digitale Onderwijsmiddelen en Privacy 2.0"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="4-12-2015"/>
+  <properties
+      key="Onderwerpen"
+      value="Privacy"/>
+  <properties
+      key="Bron"
+      value="check: toesturen opbrengsten DBP aan Edu-K"/>
+</archimate:Requirement>

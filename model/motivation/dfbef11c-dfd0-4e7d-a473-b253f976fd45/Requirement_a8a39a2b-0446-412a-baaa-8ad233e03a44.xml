@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Besluit tot verdere uitwerking en vervolgonderzoek m.b.t. catalogus(informatie) en onderwijskundige metadata"
+    id="a8a39a2b-0446-412a-baaa-8ad233e03a44">
+  <properties
+      key="ID"
+      value="23"/>
+  <properties
+      key="Besluit"
+      value="Besluit tot verdere uitwerking en vervolgonderzoek m.b.t. catalogus(informatie) en onderwijskundige metadata"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="22-6-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="Catalogus; Metadatering"/>
+  <properties
+      key="Bron"
+      value="check: vergeet de wet pseudonimiseren niet"/>
+</archimate:Requirement>

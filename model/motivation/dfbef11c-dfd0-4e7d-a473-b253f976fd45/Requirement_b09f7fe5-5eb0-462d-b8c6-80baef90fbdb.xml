@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vaststelling memo postionering KAT in Edu-K"
+    id="b09f7fe5-5eb0-462d-b8c6-80baef90fbdb">
+  <properties
+      key="ID"
+      value="27"/>
+  <properties
+      key="Besluit"
+      value="Vaststelling memo postionering KAT in Edu-K"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="29-9-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="Governance"/>
+  <properties
+      key="Bron"
+      value="met opmerkingen"/>
+</archimate:Requirement>

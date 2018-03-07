@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maatregelen voor verwijderen van gegevens bij leveranciers"
+    id="4e41aae5-3d1d-42fe-a88c-c58356ae721b">
+  <properties
+      key="ID"
+      value="13"/>
+  <properties
+      key="Besluit"
+      value="Na invoering van het Edu-K iD zijn leveranciers van leermiddelen verplicht om de persoonsgegevens die niet meer met recht worden verkregen van de school, te verwijderen. Rekening houdend met de migratie stappen die nodig zijn om van de huidige systematiek over te stappen naar het gebruik van het ECK iD."/>
+  <properties
+      key="Genomendoor"
+      value="Stuurgroep Doorbraakproject Onderwijs en ICT"/>
+  <properties
+      key="Datum"
+      value="3-12-2015"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Implementatiekaders nummervoorziening"/>
+</archimate:Requirement>

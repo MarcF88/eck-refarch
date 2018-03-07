@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vaststelling programmaplan implemenatie nummervoorziening"
+    id="97cd3ef2-2835-408c-85ac-0a2c9ce368d6">
+  <properties
+      key="ID"
+      value="22"/>
+  <properties
+      key="Besluit"
+      value="Vaststelling programmaplan implemenatie nummervoorziening"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="22-6-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK-ID"/>
+  <properties
+      key="Bron"/>
+</archimate:Requirement>

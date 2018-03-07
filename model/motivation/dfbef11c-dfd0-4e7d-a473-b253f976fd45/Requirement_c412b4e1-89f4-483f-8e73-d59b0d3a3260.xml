@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doel: stabiele identiteit"
+    id="c412b4e1-89f4-483f-8e73-d59b0d3a3260">
+  <properties
+      key="ID"
+      value="32"/>
+  <properties
+      key="Besluit"
+      value="Doel van gebruik van het ECK iD is het voorkomen van matchingsproblemen door het bieden van een stabiele identiteit"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="16-11-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Bron: Memo Doelen en aandachtsgebieden implementatie nummervoorziening"/>
+</archimate:Requirement>

@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Edu-K bestaat uit vertegenwoordigers van sectorraden, brancheorganisaties, Kennisnet en ministerie van OCW"
+    id="01153d1b-cec0-484e-b99c-3d6963ae33b3">
+  <properties
+      key="ID"
+      value="1"/>
+  <properties
+      key="Besluit"
+      value="Edu-K bestaat uit vertegenwoordigers van sectorraden, brancheorganisaties, Kennisnet en ministerie van OCW"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="7-10-2015"/>
+  <properties
+      key="Onderwerpen"
+      value="Governance"/>
+  <properties
+      key="Bron"/>
+</archimate:Requirement>

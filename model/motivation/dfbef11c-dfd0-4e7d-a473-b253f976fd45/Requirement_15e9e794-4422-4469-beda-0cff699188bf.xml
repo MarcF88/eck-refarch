@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Timing agenda, stukken, verslag"
+    id="15e9e794-4422-4469-beda-0cff699188bf">
+  <properties
+      key="ID"
+      value="5"/>
+  <properties
+      key="Besluit"
+      value="Agenda en stukken worden twee weken voor een bijeenkomst worden aangeleverd en het verslag binnen week na de bijeenkomst verspreid"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="7-10-2015"/>
+  <properties
+      key="Onderwerpen"
+      value="Governance"/>
+  <properties
+      key="Bron"/>
+</archimate:Requirement>

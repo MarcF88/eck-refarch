@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Edu-K neemt de regie op implementatie nummervoorziening (inclusief attributenbeleid) op zich"
+    id="1d1caccf-c325-4e43-a0d7-d5a4460a0ad1">
+  <properties
+      key="ID"
+      value="7"/>
+  <properties
+      key="Besluit"
+      value="Edu-K neemt de regie op implementatie nummervoorziening (inclusief attributenbeleid) op zich"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="7-10-2015"/>
+  <properties
+      key="Onderwerpen"
+      value="Governance"/>
+  <properties
+      key="Bron"
+      value="check: waar staat dat iD sectorgebonden is?"/>
+</archimate:Requirement>

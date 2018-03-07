@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maatregelen voor opslag"
+    id="54674124-46a2-4430-8de6-46436b47a7cd">
+  <properties
+      key="ID"
+      value="14"/>
+  <properties
+      key="Besluit"
+      value="Opslag – Tijdens de implementatie treffen betrokken ketenpartijen maatregelen voor veilige opslag van persoonsgegevens. Het Edu-K iD wordt door de ketenpartijen gescheiden van andere persoonsgegevens opgeslagen."/>
+  <properties
+      key="Genomendoor"
+      value="Stuurgroep Doorbraakproject Onderwijs en ICT"/>
+  <properties
+      key="Datum"
+      value="3-12-2015"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"/>
+</archimate:Requirement>

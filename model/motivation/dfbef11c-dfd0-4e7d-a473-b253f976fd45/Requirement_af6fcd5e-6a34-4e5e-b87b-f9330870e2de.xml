@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Besluit tot uitvoering pilot UWLR mbo"
+    id="af6fcd5e-6a34-4e5e-b87b-f9330870e2de">
+  <properties
+      key="ID"
+      value="26"/>
+  <properties
+      key="Besluit"
+      value="Besluit tot uitvoering pilot UWLR mbo"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="28-9-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="Inzicht"/>
+  <properties
+      key="Bron"/>
+</archimate:Requirement>

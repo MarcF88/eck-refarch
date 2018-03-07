@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruik: bijdrage aan beveiliging in de keten"
+    id="f17ef5aa-0864-4f63-ba2b-2b93f4c2c7e8">
+  <properties
+      key="ID"
+      value="38"/>
+  <properties
+      key="Besluit"
+      value="Gebruik van het ECK iD draagt bij aan verbetering beveiliging in de keten, omdat gebruik enkele beveiligingsmaatregelen veronderstelt"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="16-11-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Bron: Memo Doelen en aandachtsgebieden implementatie nummervoorziening"/>
+</archimate:Requirement>

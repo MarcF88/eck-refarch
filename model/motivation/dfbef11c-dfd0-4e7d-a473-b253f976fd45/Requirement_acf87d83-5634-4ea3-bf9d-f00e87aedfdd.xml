@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tussenresultaat Toekomstperspectief toegang aanvaard"
+    id="acf87d83-5634-4ea3-bf9d-f00e87aedfdd">
+  <properties
+      key="ID"
+      value="25"/>
+  <properties
+      key="Besluit"
+      value="Tussenresultaat Toekomstperspectief toegang aanvaard"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="28-9-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="Toegang"/>
+  <properties
+      key="Bron"/>
+</archimate:Requirement>

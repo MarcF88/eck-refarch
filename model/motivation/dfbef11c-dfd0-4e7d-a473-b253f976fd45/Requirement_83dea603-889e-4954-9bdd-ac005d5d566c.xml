@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vaststelling jaarplan 2016"
+    id="83dea603-889e-4954-9bdd-ac005d5d566c">
+  <properties
+      key="ID"
+      value="18"/>
+  <properties
+      key="Besluit"
+      value="Vaststelling jaarplan 2016"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="3-12-2015"/>
+  <properties
+      key="Onderwerpen"/>
+  <properties
+      key="Bron"
+      value="Verslag Edu-K 03-12-2015"/>
+</archimate:Requirement>

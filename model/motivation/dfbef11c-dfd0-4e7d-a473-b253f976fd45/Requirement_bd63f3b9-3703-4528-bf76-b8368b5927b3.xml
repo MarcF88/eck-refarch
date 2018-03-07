@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Facet is in scope voor gebruik van het ECK iD"
+    id="bd63f3b9-3703-4528-bf76-b8368b5927b3">
+  <properties
+      key="ID"
+      value="30"/>
+  <properties
+      key="Besluit"
+      value="Facet is in scope voor gebruik van het ECK iD"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="16-11-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"
+      value="Verslag Edu-K"/>
+</archimate:Requirement>

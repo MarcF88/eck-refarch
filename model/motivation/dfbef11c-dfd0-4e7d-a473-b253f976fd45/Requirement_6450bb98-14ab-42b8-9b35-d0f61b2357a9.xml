@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SURF is agendalid van Edu-K"
+    id="6450bb98-14ab-42b8-9b35-d0f61b2357a9">
+  <properties
+      key="ID"
+      value="16"/>
+  <properties
+      key="Besluit"
+      value="SURF is agendalid van Edu-K"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="3-12-2015"/>
+  <properties
+      key="Onderwerpen"
+      value="Governance"/>
+  <properties
+      key="Bron"
+      value="Verslag Edu-K 03-12-2015"/>
+</archimate:Requirement>

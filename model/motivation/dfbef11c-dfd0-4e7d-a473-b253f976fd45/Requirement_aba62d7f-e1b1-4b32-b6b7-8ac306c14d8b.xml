@@ -1,0 +1,22 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacyanalyse reikwijdte ECK iD door Edu-K aanvaard"
+    id="aba62d7f-e1b1-4b32-b6b7-8ac306c14d8b">
+  <properties
+      key="ID"
+      value="24"/>
+  <properties
+      key="Besluit"
+      value="Privacyanalyse reikwijdte ECK iD door Edu-K aanvaard"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="28-9-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK iD"/>
+  <properties
+      key="Bron"/>
+</archimate:Requirement>
