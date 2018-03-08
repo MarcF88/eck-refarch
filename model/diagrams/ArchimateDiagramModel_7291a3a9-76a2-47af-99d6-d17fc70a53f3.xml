@@ -178,9 +178,9 @@
       fillColor="#ccccff">
     <bounds
         x="36"
-        y="750"
+        y="732"
         width="241"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_4010c953-1d98-4acd-b13a-ccd9c0a4b227.xml#4010c953-1d98-4acd-b13a-ccd9c0a4b227"/>

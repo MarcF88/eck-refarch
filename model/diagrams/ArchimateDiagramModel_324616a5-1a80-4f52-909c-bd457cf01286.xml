@@ -457,9 +457,9 @@
           fillColor="#ccccff">
         <bounds
             x="204"
-            y="36"
+            y="24"
             width="120"
-            height="55"/>
+            height="67"/>
         <archimateElement
             xsi:type="archimate:Requirement"
             href="Requirement_54674124-46a2-4430-8de6-46436b47a7cd.xml#54674124-46a2-4430-8de6-46436b47a7cd"/>
@@ -472,9 +472,9 @@
           fillColor="#ccccff">
         <bounds
             x="336"
-            y="36"
+            y="24"
             width="120"
-            height="55"/>
+            height="67"/>
         <archimateElement
             xsi:type="archimate:Requirement"
             href="Requirement_57b2621e-c138-42f6-96f8-4db282b1224b.xml#57b2621e-c138-42f6-96f8-4db282b1224b"/>
@@ -487,9 +487,9 @@
           fillColor="#ccccff">
         <bounds
             x="468"
-            y="36"
+            y="24"
             width="120"
-            height="55"/>
+            height="67"/>
         <archimateElement
             xsi:type="archimate:Requirement"
             href="Requirement_4e41aae5-3d1d-42fe-a88c-c58356ae721b.xml#4e41aae5-3d1d-42fe-a88c-c58356ae721b"/>
