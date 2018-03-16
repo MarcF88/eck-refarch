@@ -1,6 +1,6 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7. De uitgever van een leermiddel bepaalt de keten brede unieke en persistente identifier van het leermiddel."
+    name="07. De uitgever van een leermiddel bepaalt de keten brede unieke en persistente identifier van het leermiddel."
     id="1fa18449-2277-4775-8e0d-3e64e7fef564">
   <properties
       key="Rationale"

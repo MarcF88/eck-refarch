@@ -1,6 +1,6 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="9. Een besteller kan op basis van zijn kenmerken eventuele contract afspraken selecteren/activeren."
+    name="09. Een besteller kan op basis van zijn kenmerken eventuele contract afspraken selecteren/activeren."
     id="df83cbc9-32b8-4fc3-8b68-c7d0c3c87ccc">
   <properties
       key="Rationale"
