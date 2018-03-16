@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order (anoniem)"
+    id="00b2317b-2a24-43dc-844a-1048f6949445">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_37cbd1ac-13b0-4369-b9ab-db6a86e360fd.xml#37cbd1ac-13b0-4369-b9ab-db6a86e360fd"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_1af3f14c-5c11-4a77-a114-6fbe657a7cf7.xml#1af3f14c-5c11-4a77-a114-6fbe657a7cf7"/>
+</archimate:ServingRelationship>

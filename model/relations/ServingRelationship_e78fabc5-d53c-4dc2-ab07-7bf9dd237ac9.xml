@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retreiveEckID"
+    id="e78fabc5-d53c-4dc2-ab07-7bf9dd237ac9">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_7b262aca-4c28-40ce-9a9d-8c0be95d1777.xml#7b262aca-4c28-40ce-9a9d-8c0be95d1777"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_9ee8b785-b9ab-40bf-adb8-4d983fa1bf11.xml#9ee8b785-b9ab-40bf-adb8-4d983fa1bf11"/>
+</archimate:ServingRelationship>

@@ -1,12 +1,11 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Klik op vaste link in portaal"
-    id="95b8f1bc-357b-419d-abec-7eeffa16412a">
+    id="88b64a00-4d0c-42c4-b68e-7860fb945fe1">
   <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_e2679a90-7b29-4671-b245-13579f9c32e8.xml#e2679a90-7b29-4671-b245-13579f9c32e8"/>
+  <target
       xsi:type="archimate:BusinessFunction"
       href="BusinessFunction_d5c82d17-756e-4504-b2d3-db4f2b2273de.xml#d5c82d17-756e-4504-b2d3-db4f2b2273de"/>
-  <target
-      xsi:type="archimate:BusinessActor"
-      href="BusinessActor_894be8b4-1e9d-4a68-811c-59b0f8b5f58c.xml#894be8b4-1e9d-4a68-811c-59b0f8b5f58c"/>
 </archimate:ServingRelationship>
