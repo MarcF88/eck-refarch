@@ -1,11 +1,10 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Specificeren op ECK ID"
-    id="6f76a86f-6f3f-473e-9661-787fc99aaa32">
+    id="48e62c32-9ecb-4b14-ace9-55623df8ba68">
   <source
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_04e46265-60cd-43b0-ae4c-2033e8a0bf65.xml#04e46265-60cd-43b0-ae4c-2033e8a0bf65"/>
+      xsi:type="archimate:Junction"
+      href="Junction_4048edf8-b5c9-49c8-ad2e-64cf7bad4b4b.xml#4048edf8-b5c9-49c8-ad2e-64cf7bad4b4b"/>
   <target
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_b0738727-b45c-4023-adfe-3c61879a8ff3.xml#b0738727-b45c-4023-adfe-3c61879a8ff3"/>

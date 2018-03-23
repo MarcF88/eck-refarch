@@ -1,12 +1,11 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="UWLR L (smalle set)"
-    id="902819f7-dcfd-4c64-8096-fcc180522c7b">
+    id="e042a8a6-c75e-42a2-b87f-c7b76522a6f8">
   <source
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_eb3242cc-e552-438d-8e2b-4ab3808e48f5.xml#eb3242cc-e552-438d-8e2b-4ab3808e48f5"/>
   <target
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_7b262aca-4c28-40ce-9a9d-8c0be95d1777.xml#7b262aca-4c28-40ce-9a9d-8c0be95d1777"/>
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_716b0c48-f857-4d19-a54c-4986da2a4b4b.xml#716b0c48-f857-4d19-a54c-4986da2a4b4b"/>
 </archimate:ServingRelationship>
