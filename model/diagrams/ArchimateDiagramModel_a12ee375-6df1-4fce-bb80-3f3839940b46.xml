@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="scenario: bestellen door leerling IDP first VO"
+    name="02a. scenario: bestellen door leerling IDP first VO"
     id="a12ee375-6df1-4fce-bb80-3f3839940b46"
     documentation="1. Leerling is ingelogd&#xD;&#xA;2. Leerling klikt op link in portaal naar 'bestelomgeving' van distributeur&#xD;&#xA;3. Bestelsysteem haalt attributen volgens ARP op bij SSO omgeving&#xD;&#xA;4. Bestelsysteem ordert bestellingen bij uitgever (anoniem, niet voorzien van ECK ID)&#xD;&#xA;5. Bestelsysteem specifieert ECK ID van leerling bij bestelling&#xD;&#xA;">
   <children

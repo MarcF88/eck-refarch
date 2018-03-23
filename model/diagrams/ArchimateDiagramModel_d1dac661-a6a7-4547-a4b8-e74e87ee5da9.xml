@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="scenario: schoolportaal"
+    name="01. scenario: schoolportaal"
     id="d1dac661-a6a7-4547-a4b8-e74e87ee5da9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Rollen en services"
+    name="Relaties: Rollen en services"
     id="9b489761-2ea1-4d71-81de-67acab1c37d0">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
