@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="03a. scenario: leveren aan leerling IDP last MBO"
+    name="03c. scenario: leveren aan leerling IDP last MBO"
     id="b3cfa936-acf2-4306-a8bf-4aa6a261569e"
     documentation="Besteller = gebruiker&#xD;&#xA;ECK MBO scenario, want: SSO en Specify service&#xD;&#xA;">
   <children
@@ -208,16 +208,6 @@
       targetConnections="b6e48c4b-3e0a-43b6-b185-a8a1f3b2f827"
       lineColor="#5c5c5c"
       fillColor="#ffffe6">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="08e490b5-2fbe-4ae6-a8c9-9d663df8e421"
-        lineColor="#000000"
-        source="09fa913f-f9b8-49b4-941d-0716346e92f2"
-        target="0f9c373b-8e19-4472-ba81-b85ffdc3d9ea">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_95b8f1bc-357b-419d-abec-7eeffa16412a.xml#95b8f1bc-357b-419d-abec-7eeffa16412a"/>
-    </sourceConnections>
     <bounds
         x="-168"
         y="132"
@@ -230,7 +220,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0f9c373b-8e19-4472-ba81-b85ffdc3d9ea"
-      targetConnections="08e490b5-2fbe-4ae6-a8c9-9d663df8e421 a80c9ec0-9122-46a4-93d3-f5c5c55555c3 d361cd44-f2a5-4663-a488-c75d9b08697b"
+      targetConnections="a80c9ec0-9122-46a4-93d3-f5c5c55555c3 d361cd44-f2a5-4663-a488-c75d9b08697b"
       lineColor="#5c5c5c"
       fillColor="#e6ffff">
     <bounds

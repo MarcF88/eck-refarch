@@ -1,11 +1,11 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Linkje plaatsen"
-    id="56a8c205-4bb4-48d1-9baa-22c57ba8ed66">
+    name="productdetails"
+    id="d357cf02-ec1c-48a8-a163-f0c19da3bb9f">
   <source
       xsi:type="archimate:BusinessService"
-      href="BusinessService_d482fe6e-0f47-4ea0-9543-93c371a33ed7.xml#d482fe6e-0f47-4ea0-9543-93c371a33ed7"/>
+      href="BusinessService_2d82b655-3016-4dcc-bdfd-af0210dcd5ac.xml#2d82b655-3016-4dcc-bdfd-af0210dcd5ac"/>
   <target
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_eb3242cc-e552-438d-8e2b-4ab3808e48f5.xml#eb3242cc-e552-438d-8e2b-4ab3808e48f5"/>
