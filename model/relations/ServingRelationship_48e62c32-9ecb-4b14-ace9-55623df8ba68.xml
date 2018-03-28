@@ -1,11 +1,12 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vraagt credits op naam van de gebruiker op"
     id="48e62c32-9ecb-4b14-ace9-55623df8ba68">
   <source
       xsi:type="archimate:Junction"
       href="Junction_4048edf8-b5c9-49c8-ad2e-64cf7bad4b4b.xml#4048edf8-b5c9-49c8-ad2e-64cf7bad4b4b"/>
   <target
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_b0738727-b45c-4023-adfe-3c61879a8ff3.xml#b0738727-b45c-4023-adfe-3c61879a8ff3"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_278c9f5e-625e-45fd-b44e-f17ae04cd064.xml#278c9f5e-625e-45fd-b44e-f17ae04cd064"/>
 </archimate:ServingRelationship>

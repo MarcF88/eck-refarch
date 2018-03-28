@@ -6,6 +6,6 @@
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_b635ba2a-498b-4825-b11a-aa6b88a69e99.xml#b635ba2a-498b-4825-b11a-aa6b88a69e99"/>
   <target
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_1439334a-4f76-414e-9f99-6ecda254aaf2.xml#1439334a-4f76-414e-9f99-6ecda254aaf2"/>
+      xsi:type="archimate:Grouping"
+      href="Grouping_3a57d2d8-f5fa-43ad-a7ad-4e0b95a755eb.xml#3a57d2d8-f5fa-43ad-a7ad-4e0b95a755eb"/>
 </archimate:AssignmentRelationship>

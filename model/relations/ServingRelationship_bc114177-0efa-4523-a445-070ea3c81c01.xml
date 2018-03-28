@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gepersonaliseerde omgeving"
+    id="bc114177-0efa-4523-a445-070ea3c81c01">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_d5c82d17-756e-4504-b2d3-db4f2b2273de.xml#d5c82d17-756e-4504-b2d3-db4f2b2273de"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_894be8b4-1e9d-4a68-811c-59b0f8b5f58c.xml#894be8b4-1e9d-4a68-811c-59b0f8b5f58c"/>
+</archimate:ServingRelationship>

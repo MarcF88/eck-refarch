@@ -4,9 +4,9 @@
     name="http request"
     id="4f0e54dd-d799-44a4-b520-b2c7f0c1054c">
   <source
-      xsi:type="archimate:BusinessInterface"
-      href="BusinessInterface_43c9d00c-019d-4423-a77c-5422280a822b.xml#43c9d00c-019d-4423-a77c-5422280a822b"/>
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_d5c82d17-756e-4504-b2d3-db4f2b2273de.xml#d5c82d17-756e-4504-b2d3-db4f2b2273de"/>
   <target
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_e0e54112-f892-4960-9a65-bca3dd8af353.xml#e0e54112-f892-4960-9a65-bca3dd8af353"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_f9b0fa2f-93e7-41a7-8b7e-8844a5d3ae04.xml#f9b0fa2f-93e7-41a7-8b7e-8844a5d3ae04"/>
 </archimate:FlowRelationship>

@@ -4,8 +4,8 @@
     id="ab666ead-98bc-4cf5-8f10-3e6c5900d001"
     accessType="1">
   <source
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_a742b001-5f16-42d0-95de-c4f982a31e2c.xml#a742b001-5f16-42d0-95de-c4f982a31e2c"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_778a171f-8159-4cc3-a2de-ba66f99437d9.xml#778a171f-8159-4cc3-a2de-ba66f99437d9"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_995e13d3-46fa-4281-8e86-f0351a50f7e8.xml#995e13d3-46fa-4281-8e86-f0351a50f7e8"/>

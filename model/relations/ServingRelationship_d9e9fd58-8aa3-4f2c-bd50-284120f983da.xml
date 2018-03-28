@@ -7,6 +7,6 @@
       xsi:type="archimate:BusinessService"
       href="BusinessService_d7f5ef34-c10e-4f01-ae5f-bf61431feb40.xml#d7f5ef34-c10e-4f01-ae5f-bf61431feb40"/>
   <target
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_1af3f14c-5c11-4a77-a114-6fbe657a7cf7.xml#1af3f14c-5c11-4a77-a114-6fbe657a7cf7"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_dc1c280a-1210-4fa5-bd9e-8a32ce05c802.xml#dc1c280a-1210-4fa5-bd9e-8a32ce05c802"/>
 </archimate:ServingRelationship>

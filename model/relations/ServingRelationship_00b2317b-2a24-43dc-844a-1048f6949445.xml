@@ -4,9 +4,9 @@
     name="Order (anoniem)"
     id="00b2317b-2a24-43dc-844a-1048f6949445">
   <source
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_37cbd1ac-13b0-4369-b9ab-db6a86e360fd.xml#37cbd1ac-13b0-4369-b9ab-db6a86e360fd"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_9831e199-2715-4037-9f58-c16d6678b1e5.xml#9831e199-2715-4037-9f58-c16d6678b1e5"/>
   <target
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_1af3f14c-5c11-4a77-a114-6fbe657a7cf7.xml#1af3f14c-5c11-4a77-a114-6fbe657a7cf7"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a778a767-e9dc-436f-bb95-bb995cd03135.xml#a778a767-e9dc-436f-bb95-bb995cd03135"/>
 </archimate:ServingRelationship>

@@ -4,9 +4,9 @@
     name="Specificeren op ECK ID"
     id="6f76a86f-6f3f-473e-9661-787fc99aaa32">
   <source
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_04e46265-60cd-43b0-ae4c-2033e8a0bf65.xml#04e46265-60cd-43b0-ae4c-2033e8a0bf65"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_e78d4f38-f7bd-4109-856e-2422850783ad.xml#e78d4f38-f7bd-4109-856e-2422850783ad"/>
   <target
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_b0738727-b45c-4023-adfe-3c61879a8ff3.xml#b0738727-b45c-4023-adfe-3c61879a8ff3"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_278c9f5e-625e-45fd-b44e-f17ae04cd064.xml#278c9f5e-625e-45fd-b44e-f17ae04cd064"/>
 </archimate:ServingRelationship>

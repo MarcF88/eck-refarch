@@ -4,9 +4,9 @@
     name="UWLR L (smalle set)"
     id="902819f7-dcfd-4c64-8096-fcc180522c7b">
   <source
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_eb3242cc-e552-438d-8e2b-4ab3808e48f5.xml#eb3242cc-e552-438d-8e2b-4ab3808e48f5"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_93a3c62c-4d65-448d-b24d-4f4c8f70e7fc.xml#93a3c62c-4d65-448d-b24d-4f4c8f70e7fc"/>
   <target
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_7b262aca-4c28-40ce-9a9d-8c0be95d1777.xml#7b262aca-4c28-40ce-9a9d-8c0be95d1777"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_6467edd1-1188-4523-9bdd-b2c7d155d968.xml#6467edd1-1188-4523-9bdd-b2c7d155d968"/>
 </archimate:ServingRelationship>
