@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UWLR 4. Het dataformaat voor de overdracht van leerlinggegevens is EDEXML 2.1"
+    id="35b45ea0-2377-443f-90f3-2776536ebf2e">
+  <properties
+      key="Rationale"
+      value="EDEXML is bekend en er is vaak binnen de ook bij deze afspraak betrokken systemen al ondersteuning voor. Door het formaat ervan af te leiden is de hoop dat implementatie ervan eenvoudiger is dan als we een geheel nieuw formaat hadden verzonnen."/>
+  <properties
+      key="Stelling"
+      value="Het dataformaat voor de overdracht van leerlinggegevens is EDEXML 2.1"/>
+  <properties
+      key="ID"
+      value="UWLR 4"/>
+  <properties
+      key="Uitleg"
+      value="EDEXML is de Nederlandse standaard voor de overdracht van leerling, docenten groepsgegevens in het onderwijs. Voor gebruik binnen deze afspraak schoot EDEXML versie 1.03 echter enigszins te kort. De versie 2.0 voldoet wel. De nieuwste versie 2.1 is uitgebreid met ECK-iD. Deze versie 2.1 wordt gebruikt en versie 1.03 gebruiken we niet. Door bepaalde onderdelen uit EDEXML aan te bevelen voor deze overdracht (en andere juist uit te sluiten), is het bestaande EDEXML 2.1 middels het gebruik van profielen in te perken op de context en af te stemmen op de behoefte."/>
+</archimate:Requirement>

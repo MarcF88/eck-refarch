@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="51. De onderwijsinstellingen zijn zelf verantwoordelijk voor het verstrekken van attributensets en de bewerkers binnen de leermiddelenketen maken geen onderdeel uit van een eventuele overkoepelende verantwoordelijkheid ten aanzien van het attributenbeleid en de ict-infrastructuur voor de ECK iD uitgifte."
+    id="758c01fb-91d6-4395-98a0-3734ed8844c3">
+  <properties
+      key="ID"
+      value="51"/>
+  <properties
+      key="Besluit"
+      value="De onderwijsinstellingen zijn zelf verantwoordelijk voor het verstrekken van attributensets en de bewerkers binnen de leermiddelenketen maken geen onderdeel uit van een eventuele overkoepelende verantwoordelijkheid ten aanzien van het attributenbeleid en de ict-infrastructuur voor de ECK iD uitgifte."/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="7-12-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK ID"/>
+  <properties
+      key="Bron"
+      value="Attributenbeleid ECK iD v1.0"/>
+</archimate:Requirement>

@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="58. De ECK-standaard Distributie en toegang 2.1 is een voorwaarde voor gebruik van het ECK iD in vo en mbo en iedereen zal deze moeten implementeren"
+    id="cde29e4d-0724-4b6a-95c7-ebf5f740c27d">
+  <properties
+      key="ID"
+      value="58"/>
+  <properties
+      key="Besluit"
+      value="De ECK-standaard Distributie en toegang 2.1 is een voorwaarde voor gebruik van het ECK iD in vo en mbo en iedereen zal deze moeten implementeren"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="8-2-2017"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK ID"/>
+  <properties
+      key="Bron"
+      value="Verslag Edu-K 8-2-2017"/>
+</archimate:Requirement>

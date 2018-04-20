@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UWLR 2.  Alle velden in de berichten zijn beperkt in lengte"
+    id="a97df7d5-0a57-42fd-b0cb-8605c0076c22">
+  <properties
+      key="Uitleg"
+      value="Belangrijkste reden hiervoor is eenvoud van authenticatie/autorisatie. Deze kan nu eenzijdig door het LAS geregeld worden omdat deze de altijd de ontvanger is van de webservices."/>
+  <properties
+      key="Stelling"
+      value="Alle velden in de berichten zijn beperkt in lengte"/>
+  <properties
+      key="ID"
+      value="UWLR 2"/>
+  <properties
+      key="Rationale"
+      value="De informatie in de berichten zal over het algemeen in en uit relationele database gelezen/geschreven worden. In de praktijk zijn daardoor de tekstvelden in lengte beperkt. Om dit te faciliteren zijn ook de tekstvelden binnen deze afspraak allemaal in lengte beperkt."/>
+</archimate:Requirement>

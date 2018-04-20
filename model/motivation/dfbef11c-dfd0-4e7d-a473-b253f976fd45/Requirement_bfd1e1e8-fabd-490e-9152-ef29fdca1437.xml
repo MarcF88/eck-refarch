@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="49. De vaste set attributen per proces gaat om een set attributen die standaard wordt uitgewisseld samen met het ECK iD. Als een onderwijsinstelling als verantwoordelijke kan beargumenteren dat zij meer attributen wil uitwisselen, moet zij hier aparte afspraken over maken"
+    id="bfd1e1e8-fabd-490e-9152-ef29fdca1437">
+  <properties
+      key="ID"
+      value="49"/>
+  <properties
+      key="Besluit"
+      value="De vaste set attributen per proces gaat om een set attributen die standaard wordt uitgewisseld samen met het ECK iD. Als een onderwijsinstelling als verantwoordelijke kan beargumenteren dat zij meer attributen wil uitwisselen, moet zij hier aparte afspraken over maken"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="7-12-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK ID"/>
+  <properties
+      key="Bron"
+      value="Attributenbeleid ECK iD v1.0"/>
+</archimate:Requirement>

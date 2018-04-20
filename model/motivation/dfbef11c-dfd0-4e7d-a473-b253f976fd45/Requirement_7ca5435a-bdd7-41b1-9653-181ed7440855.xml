@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="43. Het attributenbeleid kan indien nodig worden herzien en bijgesteld. "
+    id="7ca5435a-bdd7-41b1-9653-181ed7440855">
+  <properties
+      key="ID"
+      value="43"/>
+  <properties
+      key="Besluit"
+      value="Het attributenbeleid kan indien nodig worden herzien en bijgesteld. Tijdens de looptijd van het programma Implementatie ECK iD is het beheer van het attributenbeleid belegd bij Edu-K"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="7-12-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK ID, Governance"/>
+  <properties
+      key="Bron"
+      value="Attributenbeleid ECK iD v1.0"/>
+</archimate:Requirement>

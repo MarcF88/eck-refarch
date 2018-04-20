@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UWLR 7. Een leerresultaat kan 1) als score of 2) als OSO resultaat of 3) als resultaat volgens eigen formaat meegezonden worden"
+    id="a8d181cd-43f2-48d2-8c9e-0a8d62d6563d">
+  <properties
+      key="Rationale"
+      value="De eerste optie is eenvoudig en daarmee snel te implementeren. De tweede optie is complexer maar in bepaalde gevallen functioneel noodzakelijk. Voor beide opties zijn in de praktijk use cases te vinden."/>
+  <properties
+      key="Stelling"
+      value="Een leerresultaat kan 1) als score of 2) als OSO resultaat of 3) als resultaat volgens eigen formaat meegezonden worden"/>
+  <properties
+      key="ID"
+      value="UWLR 7"/>
+  <properties
+      key="Uitleg"
+      value="Een leerresultaat kan worden overgebracht als: 1. Een scoregetal (altijd een geheel getal met ondergrens nul). Bij zo’n scoregetal mag de EA ook een interpretatie van dit resultaat in de toetsschaal meesturen (bijvoorbeeld vanaf welk getal het resultaat “voldoende” is) en optioneel een advies voor omzetting naar een schoolcijfer. 2. Een resultaat volgens de definities van de Edustandaard afspraak OSO gegevensset 1.2.2. 3. Een resultaat volgens eigen formaat"/>
+</archimate:Requirement>

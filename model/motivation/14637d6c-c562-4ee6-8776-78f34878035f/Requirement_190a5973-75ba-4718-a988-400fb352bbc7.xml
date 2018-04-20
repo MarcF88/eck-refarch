@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UWLR 3. Velden met termen/begrippen/codes kunnen in de berichten aan een vocabulaire worden gebonden."
+    id="190a5973-75ba-4718-a988-400fb352bbc7">
+  <properties
+      key="Rationale"
+      value="In de verschillende onderwijssectoren en door de verschillende betrokken partijen worden vaak hele verschillende lijsten met codes gehanteerd. Daarom zijn codelijsten niet “hard’ opgenomen in de afspraak maar wordt expliciet de mogelijkheid geboden deze te binden aan een buiten de afspraak liggende vocabulaire."/>
+  <properties
+      key="Stelling"
+      value="Velden met termen/begrippen/codes kunnen in de berichten aan een vocabulaire worden gebonden."/>
+  <properties
+      key="ID"
+      value="UWLR 3"/>
+  <properties
+      key="Uitleg"
+      value="Voor velden met codes (termen, begrippen) zijn vaak vocabulaires beschikbaar (denk aan bijvoorbeeld een lijst met vakgebieden). Via een constructie in de XML kan zo’n veld aan een beschikbare vocabulaire gebonden worden, zodat de betekenis van de inhoud van het veld beter kan worden geduid. De vocabulaire moet dan beschikbaar zijn in het VDEX formaat."/>
+</archimate:Requirement>

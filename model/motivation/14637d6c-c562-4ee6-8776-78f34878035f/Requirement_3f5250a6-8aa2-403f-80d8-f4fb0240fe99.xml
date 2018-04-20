@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UWLR 6. Omvang van de over te brengen leerresultaten is vrij"
+    id="3f5250a6-8aa2-403f-80d8-f4fb0240fe99">
+  <properties
+      key="Rationale"
+      value="Dit maakt deze afspraak zowel geschikt voor het toepassen van de “druppel methode” (direct overdragen van individuele resultaten) als een meer batchgeoriënteerde aanpak (bijvoorbeeld iedere nacht alle geaccumuleerde resultaten in één keer overdragen)."/>
+  <properties
+      key="Stelling"
+      value="Omvang van de over te brengen leerresultaten is vrij"/>
+  <properties
+      key="ID"
+      value="UWLR 6"/>
+  <properties
+      key="Uitleg"
+      value="Er is expliciet voor gekozen om geen restricties te leggen op de hoeveelheid leerresultaten die er in een enkel bericht kunnen worden overgebracht."/>
+</archimate:Requirement>

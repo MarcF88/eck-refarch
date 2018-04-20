@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="48. Voor het proces ‘leveren’ maken we in het attributenbeleid onderscheid tussen de fysieke levering van leermiddelen en de digitale levering van leermiddelen. Ook kan sprake zijn van hybride middelen waarvoor fysieke levering nodig is. Uitgangspunt is dat wanneer er een fysieke levering moet plaatsvinden de bestellende actor (school, leerling, ouder, student of stagebedrijf) het afleveradres moet registeren tijdens de bestelling."
+    id="6ae81e21-6680-4402-863e-e3949332e053">
+  <properties
+      key="ID"
+      value="48"/>
+  <properties
+      key="Besluit"
+      value="Voor het proces ‘leveren’ maken we in het attributenbeleid onderscheid tussen de fysieke levering van leermiddelen en de digitale levering van leermiddelen. Ook kan sprake zijn van hybride middelen waarvoor fysieke levering nodig is. Uitgangspunt is dat wanneer er een fysieke levering moet plaatsvinden de bestellende actor (school, leerling, ouder, student of stagebedrijf) het afleveradres moet registeren tijdens de bestelling."/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="7-12-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK ID"/>
+  <properties
+      key="Bron"
+      value="Attributenbeleid ECK iD v1.0"/>
+</archimate:Requirement>

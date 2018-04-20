@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="50. Het bevoegd gezag van de onderwijsinstelling zorgt ervoor, dat de afgesproken attributensets met het ECK iD beschikbaar komen in de leermiddelenketen."
+    id="78e4418b-c0ef-434c-aa51-6a0cb33a8f77">
+  <properties
+      key="ID"
+      value="50"/>
+  <properties
+      key="Besluit"
+      value="Het bevoegd gezag van de onderwijsinstelling zorgt ervoor, dat de afgesproken attributensets met het ECK iD beschikbaar komen in de leermiddelenketen."/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="7-12-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK ID"/>
+  <properties
+      key="Bron"
+      value="Attributenbeleid ECK iD v1.0"/>
+</archimate:Requirement>

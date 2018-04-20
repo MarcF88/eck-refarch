@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="45. Vanuit het oogpunt van werkbaarheid is het op dit moment zo dat attributen die in een bepaald proces nodig zijn, in een eerder proces moeten kunnen worden uitgewisseld."
+    id="e29245c9-2199-4d53-8693-39c48e46fb3c">
+  <properties
+      key="ID"
+      value="45"/>
+  <properties
+      key="Besluit"
+      value="Vanuit het oogpunt van werkbaarheid is het op dit moment zo dat attributen die in een bepaald proces nodig zijn, in een eerder proces moeten kunnen worden uitgewisseld."/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="7-12-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK ID"/>
+  <properties
+      key="Bron"
+      value="Attributenbeleid ECK iD v1.0"/>
+</archimate:Requirement>

@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UWLR 5.  De leerlinggegevens van een school gaan altijd in hun geheel over of getrapt"
+    id="4471939f-2830-430c-a064-97ba586afd38">
+  <properties
+      key="Rationale"
+      value="De belangrijkste reden hiervoor is de eenvoud van het protocol. Als je ook berichten met alleen wijzigingen toestaat neemt de complexiteit enorm toe: Er zullen bijvoorbeeld faciliteiten ingebouwd moeten worden voor verwijderingen en aanpassingen. Door altijd alles te verzenden voorkom je dit. Opmerkingen Het principe is ooit mede op verzoek van scholen zo opgesteld (voor het PO) om de administratieve lasten voor docenten laag te houden. Die hebben namelijk veel extra werk om per groep/klas leerlingen aan te melden voor leren en toetsen. Niettemin komt het principe steeds meer op gespannen voette staan met privacy-uitgangspunten; steeds maar alle gegevens versturen schendt het principe van de doel/binding. De omvang van de datastromen en de productie/verwerking van de berichten kan ook een probleem vormen. Gegeven de mogelijkheid van getrapt ophalen en de toename in verwerkingscapaciteit, bandbreedte en de mogelijkheid tot compressie van de berichten verwachten we hier echter geen onoverkomelijke problemen. Mochten de omvang en intensiteit van het verkeer toch een probleem gaan vormen, dan zal een toekomstige versie van de afspraak hierop aangepast moeten worden."/>
+  <properties
+      key="Stelling"
+      value=" De leerlinggegevens van een school gaan altijd in hun geheel over of getrapt"/>
+  <properties
+      key="ID"
+      value="UWLR 1"/>
+  <properties
+      key="Uitleg"
+      value="Binnen deze afspraak is er voor gekozen dat bij de overdracht van leerlinggegevens zo mogelijk de gegevens van een hele school volledig worden verzonden in die gevallen dat er op schoolniveau een licentie is afgesloten met een uitgever (voor PO-scholen meestal het geval). Is een volledige overdracht niet mogelijk dan kunnen de gegevens getrapt worden opgehaald. Een school wordt gedefinieerd middels een BRIN code + een optionele dependance code. Het sturen van kleinere deelverzamelingen (afdeling, groep, klas) wordt niet ondersteund."/>
+</archimate:Requirement>

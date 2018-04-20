@@ -1,0 +1,17 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UWLR 1. Het initiatief voor een overdracht ligt altijd bij de EA"
+    id="5216ec43-f497-4a25-9b8a-ef0e30dd90fe">
+  <properties
+      key="Rationale"
+      value="Belangrijkste reden hiervoor is eenvoud van authenticatie/autorisatie. Deze kan nu eenzijdig door het LAS geregeld worden omdat deze de altijd de ontvanger is van de webservices."/>
+  <properties
+      key="Stelling"
+      value="Het initiatief voor een overdracht ligt altijd bij de EA"/>
+  <properties
+      key="ID"
+      value="UWLR 1"/>
+  <properties
+      key="Uitleg"
+      value="Het is altijd de EA die een overdracht initieert. Dit betekent dat het LAS de voor deze afspraak noodzakelijke webservices moet implementeren"/>
+</archimate:Requirement>

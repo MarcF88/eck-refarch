@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="46. Voor elk attribuut moet vanuit het oogpunt van doelbinding een onderbouwing zijn waarom dit attribuut moet worden meegezonden in een bepaald proces van de leermiddelenketen."
+    id="94d4f26d-8850-4dfb-a404-fb0004aa09d5">
+  <properties
+      key="ID"
+      value="46"/>
+  <properties
+      key="Besluit"
+      value="Voor elk attribuut moet vanuit het oogpunt van doelbinding een onderbouwing zijn waarom dit attribuut moet worden meegezonden in een bepaald proces van de leermiddelenketen."/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="7-12-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK ID"/>
+  <properties
+      key="Bron"
+      value="Attributenbeleid ECK iD v1.0"/>
+</archimate:Requirement>

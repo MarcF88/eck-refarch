@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="98. Het aantal variaties in het bestel- en distributieproces moet worden teruggebracht."
+    id="3197df6a-bd84-496a-94b2-7aa0bc2b8d74">
+  <properties
+      key="ID"
+      value="98"/>
+  <properties
+      key="Besluit"
+      value="Het aantal variaties in het bestel- en distributieproces moet worden teruggebracht."/>
+  <properties
+      key="Genomendoor"
+      value="Stuurgroep start schooljaar"/>
+  <properties
+      key="Datum"
+      value="6-12-2017"/>
+  <properties
+      key="Onderwerpen"
+      value="Start schooljaar"/>
+  <properties
+      key="Bron"
+      value="Verslag stuurgroep start schooljaar 6-12-2017"/>
+</archimate:Requirement>

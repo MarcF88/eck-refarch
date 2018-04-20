@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="69. Een goed verloop van de start van het schooljaar (m.b.t. leermiddelen) is een ketenverantwoordelijkheid"
+    id="dc89c20b-e487-4c60-ac74-75a499c1ffd4">
+  <properties
+      key="ID"
+      value="69"/>
+  <properties
+      key="Besluit"
+      value="Een goed verloop van de start van het schooljaar (m.b.t. leermiddelen) is een ketenverantwoordelijkheid"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="7-12-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="Start schooljaar"/>
+  <properties
+      key="Bron"
+      value="Verslag Edu-K 13-9-2017"/>
+</archimate:Requirement>

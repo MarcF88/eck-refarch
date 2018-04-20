@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="52. Vastgestelde attributensets per proces per sector (zie vastgesteld document attributenbeleid)"
+    id="006849aa-139d-438e-a6c2-554f10598524">
+  <properties
+      key="ID"
+      value="52"/>
+  <properties
+      key="Besluit"
+      value="Vastgestelde attributensets per proces per sector (zie vastgesteld document attributenbeleid)"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="7-12-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK ID"/>
+  <properties
+      key="Bron"
+      value="Attributenbeleid ECK iD v1.0"/>
+</archimate:Requirement>

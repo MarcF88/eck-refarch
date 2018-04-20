@@ -1,0 +1,23 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="44. Uitgangspunt voor het attributenbeleid is dat implementatie van het ECK iD dient te leiden tot (een werkbare en wenselijke vorm van) dataminimalisatie van persoonsgegevens bij bestellen, leveren, gebruik van en toegang tot digitaal leermateriaal en het uitwisselen van leer- en toetsresultaten, inclusief de bijbehorende serviceprocessen (dataminimalisatie in de processen van de leermiddelenketen). Wat werkbaar en wenselijk is, wordt bepaald in publiek-privaat overleg"
+    id="e4e5c86f-b8df-4f17-9423-017425fcd5fa">
+  <properties
+      key="ID"
+      value="44"/>
+  <properties
+      key="Besluit"
+      value="Uitgangspunt voor het attributenbeleid is dat implementatie van het ECK iD dient te leiden tot (een werkbare en wenselijke vorm van) dataminimalisatie van persoonsgegevens bij bestellen, leveren, gebruik van en toegang tot digitaal leermateriaal en het uitwisselen van leer- en toetsresultaten, inclusief de bijbehorende serviceprocessen (dataminimalisatie in de processen van de leermiddelenketen). Wat werkbaar en wenselijk is, wordt bepaald in publiek-privaat overleg"/>
+  <properties
+      key="Genomendoor"
+      value="Edu-K"/>
+  <properties
+      key="Datum"
+      value="7-12-2016"/>
+  <properties
+      key="Onderwerpen"
+      value="ECK ID"/>
+  <properties
+      key="Bron"
+      value="Attributenbeleid ECK iD v1.0"/>
+</archimate:Requirement>
