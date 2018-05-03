@@ -1,11 +1,11 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Linkje plaatsen"
+    name="Linkje ophalen obv ID en School"
     id="56a8c205-4bb4-48d1-9baa-22c57ba8ed66">
   <source
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_d482fe6e-0f47-4ea0-9543-93c371a33ed7.xml#d482fe6e-0f47-4ea0-9543-93c371a33ed7"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_2808a590-3d01-4b62-a5d2-78b5793cebaa.xml#2808a590-3d01-4b62-a5d2-78b5793cebaa"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_93a3c62c-4d65-448d-b24d-4f4c8f70e7fc.xml#93a3c62c-4d65-448d-b24d-4f4c8f70e7fc"/>
