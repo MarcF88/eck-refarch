@@ -619,4 +619,17 @@
         xsi:type="archimate:Requirement"
         href="Requirement_c412b4e1-89f4-483f-8e73-d59b0d3a3260.xml#c412b4e1-89f4-483f-8e73-d59b0d3a3260"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="968f4dca-1bc8-4127-947b-b73ccc5c4891"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="03a scenario leveren aan leerling IDP first VO">
+    <bounds
+        x="840"
+        y="456"
+        width="185"
+        height="57"/>
+  </children>
 </archimate:ArchimateDiagramModel>
