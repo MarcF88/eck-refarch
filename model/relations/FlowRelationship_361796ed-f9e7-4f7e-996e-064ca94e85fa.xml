@@ -4,8 +4,8 @@
     name="http request (redirect)"
     id="361796ed-f9e7-4f7e-996e-064ca94e85fa">
   <source
-      xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_d5c82d17-756e-4504-b2d3-db4f2b2273de.xml#d5c82d17-756e-4504-b2d3-db4f2b2273de"/>
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_7196a901-7009-449f-8642-0b2cd9e6f382.xml#7196a901-7009-449f-8642-0b2cd9e6f382"/>
   <target
       xsi:type="archimate:BusinessService"
       href="BusinessService_25366949-8bcb-49b4-ac93-5b161e62a424.xml#25366949-8bcb-49b4-ac93-5b161e62a424"/>
