@@ -1,12 +1,11 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gematchte profielen"
-    id="b7d40f30-fd28-4b04-98ba-4168eb1cf678">
+    id="c0f9b04a-8679-4026-a8ca-d4b385d9d5bb">
   <source
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_b0bb81e2-bc8a-4235-979a-22aa5b2b4b72.xml#b0bb81e2-bc8a-4235-979a-22aa5b2b4b72"/>
-  <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_93a3c62c-4d65-448d-b24d-4f4c8f70e7fc.xml#93a3c62c-4d65-448d-b24d-4f4c8f70e7fc"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_414c3eb5-bbd5-453f-a5f1-b74048afdaee.xml#414c3eb5-bbd5-453f-a5f1-b74048afdaee"/>
 </archimate:ServingRelationship>

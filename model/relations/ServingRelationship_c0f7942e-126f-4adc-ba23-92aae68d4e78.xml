@@ -1,12 +1,12 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SAML icm ARP"
-    id="d9e9fd58-8aa3-4f2c-bd50-284120f983da">
+    name="SAML met attributen"
+    id="c0f7942e-126f-4adc-ba23-92aae68d4e78">
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_860b6463-0f1c-4a70-9469-bf487b73ef1d.xml#860b6463-0f1c-4a70-9469-bf487b73ef1d"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_dc1c280a-1210-4fa5-bd9e-8a32ce05c802.xml#dc1c280a-1210-4fa5-bd9e-8a32ce05c802"/>
+      href="ApplicationComponent_414c3eb5-bbd5-453f-a5f1-b74048afdaee.xml#414c3eb5-bbd5-453f-a5f1-b74048afdaee"/>
 </archimate:ServingRelationship>

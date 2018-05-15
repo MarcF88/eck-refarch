@@ -4,8 +4,8 @@
     name="Tegoed afleveren"
     id="44bfdbaf-cc62-46b5-a2d9-02bff6ebc93e">
   <source
-      xsi:type="archimate:BusinessService"
-      href="BusinessService_d482fe6e-0f47-4ea0-9543-93c371a33ed7.xml#d482fe6e-0f47-4ea0-9543-93c371a33ed7"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_2808a590-3d01-4b62-a5d2-78b5793cebaa.xml#2808a590-3d01-4b62-a5d2-78b5793cebaa"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_a778a767-e9dc-436f-bb95-bb995cd03135.xml#a778a767-e9dc-436f-bb95-bb995cd03135"/>
