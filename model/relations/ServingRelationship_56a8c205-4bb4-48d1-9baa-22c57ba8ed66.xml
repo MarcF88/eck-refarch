@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Linkje ophalen obv ID en School"
+    name="Linkje ophalen obv ketenID en School ID"
     id="56a8c205-4bb4-48d1-9baa-22c57ba8ed66">
   <source
       xsi:type="archimate:ApplicationService"

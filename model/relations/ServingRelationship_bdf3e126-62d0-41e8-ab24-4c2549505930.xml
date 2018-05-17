@@ -1,12 +1,12 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Additionele productinformatie obv EAN"
-    id="a9cbd944-459a-4b2e-9d01-c93a015ae4d4">
+    name="Eigen uitwisseling"
+    id="bdf3e126-62d0-41e8-ab24-4c2549505930">
   <source
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_bff1bada-c48b-4459-8816-111df1658a26.xml#bff1bada-c48b-4459-8816-111df1658a26"/>
-  <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_93a3c62c-4d65-448d-b24d-4f4c8f70e7fc.xml#93a3c62c-4d65-448d-b24d-4f4c8f70e7fc"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_6467edd1-1188-4523-9bdd-b2c7d155d968.xml#6467edd1-1188-4523-9bdd-b2c7d155d968"/>
 </archimate:ServingRelationship>

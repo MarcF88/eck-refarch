@@ -1,11 +1,12 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Op basis van distr. ID"
     id="8fefcecf-dbc5-43b8-9e7e-ed7975f47a67">
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_b032bd7c-7557-44cc-90bf-83250246c980.xml#b032bd7c-7557-44cc-90bf-83250246c980"/>
   <target
-      xsi:type="archimate:Junction"
-      href="Junction_4048edf8-b5c9-49c8-ad2e-64cf7bad4b4b.xml#4048edf8-b5c9-49c8-ad2e-64cf7bad4b4b"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_a778a767-e9dc-436f-bb95-bb995cd03135.xml#a778a767-e9dc-436f-bb95-bb995cd03135"/>
 </archimate:ServingRelationship>
