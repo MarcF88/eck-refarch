@@ -1,8 +1,8 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Specificeren op ECK ID"
-    id="6f76a86f-6f3f-473e-9661-787fc99aaa32">
+    name="Op basis van Org ID"
+    id="f1c62c76-ed3e-468e-aaa0-03c2db691e81">
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_e78d4f38-f7bd-4109-856e-2422850783ad.xml#e78d4f38-f7bd-4109-856e-2422850783ad"/>

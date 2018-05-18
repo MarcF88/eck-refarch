@@ -1,12 +1,11 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Linkje ophalen obv keten user ID en Org ID"
-    id="56a8c205-4bb4-48d1-9baa-22c57ba8ed66">
+    id="9255925c-5014-46c6-b4c6-33e2915ae6c8">
   <source
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_2808a590-3d01-4b62-a5d2-78b5793cebaa.xml#2808a590-3d01-4b62-a5d2-78b5793cebaa"/>
-  <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_93a3c62c-4d65-448d-b24d-4f4c8f70e7fc.xml#93a3c62c-4d65-448d-b24d-4f4c8f70e7fc"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_5dc3784c-5368-447b-96bb-eba4cdfaaefc.xml#5dc3784c-5368-447b-96bb-eba4cdfaaefc"/>
 </archimate:ServingRelationship>
