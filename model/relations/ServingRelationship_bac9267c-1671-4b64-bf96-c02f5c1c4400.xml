@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lees database"
     id="bac9267c-1671-4b64-bf96-c02f5c1c4400">
   <source
       xsi:type="archimate:ApplicationComponent"

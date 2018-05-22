@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Op basis van KetenID"
+    name="Op basis van Keten userID"
     id="a90da2b3-c6d9-462e-ba4e-6d36938819a5">
   <source
       xsi:type="archimate:ApplicationService"

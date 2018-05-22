@@ -177,13 +177,14 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="2c9bca6d-f94e-440e-ba1e-a689a37f67d1"
+      font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
       content="04b scenario linkjes leveren MBO&#xD;&#xA;">
     <bounds
-        x="1116"
-        y="504"
+        x="816"
+        y="30"
         width="185"
         height="43"/>
   </children>
@@ -413,17 +414,62 @@
         source="5286fb05-fda3-452e-9d15-5181222352ef"
         target="190861e6-dd3b-48b3-a80d-f9cc55275ff8">
       <bendpoints
-          startX="-144"
-          startY="11"
+          startX="-120"
+          startY="-12"
           endX="89"
-          endY="17"/>
+          endY="65"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_06d7e5ec-1b44-4b6a-8755-4e0fe1ed1b94.xml#06d7e5ec-1b44-4b6a-8755-4e0fe1ed1b94"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="21a22033-c8aa-4b4d-8d0c-032937a0f22f"
+        lineColor="#000000"
+        source="5286fb05-fda3-452e-9d15-5181222352ef"
+        target="3bdfcc0a-0500-4c65-abf9-2cfd6365a7ca">
+      <bendpoints
+          startX="12"
+          startY="84"
+          endX="258"
+          endY="-3"/>
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_0d90376d-3b24-4565-99c8-584efad279fb.xml#0d90376d-3b24-4565-99c8-584efad279fb"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="2c80ff28-6bfe-425d-a175-068c69e42ad9"
+        lineColor="#000000"
+        source="5286fb05-fda3-452e-9d15-5181222352ef"
+        target="66d3b4d8-0e7b-4240-912e-07006136fa7d">
+      <bendpoints
+          startX="12"
+          startY="132"
+          endX="258"
+          endY="-9"/>
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_04369eda-670d-4e2c-b635-1f1b1392e227.xml#04369eda-670d-4e2c-b635-1f1b1392e227"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="8560adaa-eb17-4e8c-9c5c-eeb51fe9d3be"
+        lineColor="#000000"
+        source="5286fb05-fda3-452e-9d15-5181222352ef"
+        target="0f01587b-ced4-48e0-ae6b-d47ede0edb75">
+      <bendpoints
+          startX="12"
+          startY="192"
+          endX="258"
+          endY="-3"/>
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_e31a0fa4-fa87-48be-ad73-cd81c5794293.xml#e31a0fa4-fa87-48be-ad73-cd81c5794293"/>
+    </sourceConnections>
     <bounds
-        x="864"
-        y="289"
+        x="840"
+        y="360"
         width="120"
         height="49"/>
     <archimateElement
@@ -442,18 +488,13 @@
         lineColor="#000000"
         source="e79546e5-df52-4b49-a5ef-a10b99218d11"
         target="190861e6-dd3b-48b3-a80d-f9cc55275ff8">
-      <bendpoints
-          startX="-144"
-          startY="9"
-          endX="89"
-          endY="77"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_2808f2c2-f694-4ae8-848d-272e60e0190f.xml#2808f2c2-f694-4ae8-848d-272e60e0190f"/>
     </sourceConnections>
     <bounds
-        x="864"
-        y="348"
+        x="840"
+        y="286"
         width="120"
         height="55"/>
     <archimateElement
@@ -549,11 +590,56 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Alternatief voor MBO is om gebruik te maken van distributeursportaal voor toegang tot materiaal. ">
+      content="Toegangslinks kunnen ook voor instellingen worden opgehaald bij de distributeurs. Hiervoor zijn meerdere mogelijkheden; de school en distributeur bepalen de werkwijze onderling. &#xD;&#xA;Alternatief is dat het portaal van de distributeur wordt gebruikt voor de links, dan is deze levering (dit scenario) niet van toepassing. &#xD;&#xA;&#xD;&#xA;Wordt vooral gebruikt voor MBO">
     <bounds
-        x="1116"
-        y="551"
-        width="185"
-        height="80"/>
+        x="504"
+        y="30"
+        width="293"
+        height="158"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3bdfcc0a-0500-4c65-abf9-2cfd6365a7ca"
+      targetConnections="21a22033-c8aa-4b4d-8d0c-032937a0f22f"
+      lineColor="#5c5c5c"
+      fillColor="#ccccff">
+    <bounds
+        x="528"
+        y="444"
+        width="253"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_55da383c-e92a-40a9-851b-33f786008c08.xml#55da383c-e92a-40a9-851b-33f786008c08"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="66d3b4d8-0e7b-4240-912e-07006136fa7d"
+      targetConnections="2c80ff28-6bfe-425d-a175-068c69e42ad9"
+      lineColor="#5c5c5c"
+      fillColor="#ccccff">
+    <bounds
+        x="528"
+        y="498"
+        width="253"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_03106e78-9003-4d68-967b-e13bc131b541.xml#03106e78-9003-4d68-967b-e13bc131b541"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0f01587b-ced4-48e0-ae6b-d47ede0edb75"
+      targetConnections="8560adaa-eb17-4e8c-9c5c-eeb51fe9d3be"
+      lineColor="#5c5c5c"
+      fillColor="#ccccff">
+    <bounds
+        x="528"
+        y="552"
+        width="253"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_65bc754d-6b8a-4882-97da-a372396790fc.xml#65bc754d-6b8a-4882-97da-a372396790fc"/>
   </children>
 </archimate:ArchimateDiagramModel>

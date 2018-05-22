@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SCIM of UWLR L(smalle set)"
+    name="UWLR L(smalle set)"
     id="dde65373-a19e-4b45-8b28-b9e4bc1c8757">
   <source
       xsi:type="archimate:ApplicationComponent"

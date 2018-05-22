@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leerlinginformatie"
     id="7b220a6a-2547-4af5-b289-2f66fe9ae61d">
   <source
       xsi:type="archimate:ApplicationComponent"
