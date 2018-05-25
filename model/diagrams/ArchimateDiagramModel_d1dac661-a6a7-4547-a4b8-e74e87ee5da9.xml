@@ -238,16 +238,6 @@
           lineColor="#000000"
           source="4522a862-4276-41c1-9a05-66c39d926130"
           target="be8f6dee-367b-479b-9f72-dba2c32f995d">
-        <bendpoints
-            startX="83"
-            startY="-3"
-            endX="-156"
-            endY="183"/>
-        <bendpoints
-            startX="83"
-            startY="-183"
-            endX="-156"
-            endY="3"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_e97e83d6-cb21-412d-b4f9-f37fe4cb17f4.xml#e97e83d6-cb21-412d-b4f9-f37fe4cb17f4"/>
@@ -417,16 +407,6 @@
           lineColor="#000000"
           source="d3fb18f8-d8ae-4de4-a5aa-536bc95a16a5"
           target="355b64e7-8e15-4de9-82fb-f841010f2cca">
-        <bendpoints
-            startX="83"
-            startY="-3"
-            endX="-156"
-            endY="291"/>
-        <bendpoints
-            startX="83"
-            startY="-291"
-            endX="-156"
-            endY="3"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_b32a6048-c3df-4f53-9e32-f58a6e6c3893.xml#b32a6048-c3df-4f53-9e32-f58a6e6c3893"/>
@@ -437,16 +417,6 @@
           lineColor="#000000"
           source="d3fb18f8-d8ae-4de4-a5aa-536bc95a16a5"
           target="1c3cbcf0-0d9b-4c88-a83c-40f86a100648">
-        <bendpoints
-            startX="83"
-            startY="-3"
-            endX="-156"
-            endY="237"/>
-        <bendpoints
-            startX="83"
-            startY="-243"
-            endX="-156"
-            endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_4f58af85-1e41-4dd8-b7d7-a781a4096a64.xml#4f58af85-1e41-4dd8-b7d7-a781a4096a64"/>
@@ -580,9 +550,9 @@
       fillColor="#ccccff">
     <bounds
         x="1248"
-        y="42"
+        y="324"
         width="241"
-        height="55"/>
+        height="43"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_eecdde09-bf5a-402b-a7fa-548bf08c611e.xml#eecdde09-bf5a-402b-a7fa-548bf08c611e"/>
@@ -595,9 +565,9 @@
       fillColor="#ccccff">
     <bounds
         x="1248"
-        y="96"
+        y="372"
         width="241"
-        height="55"/>
+        height="67"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_0f039a0b-2c04-4e74-b2b2-17b2e43ee2d8.xml#0f039a0b-2c04-4e74-b2b2-17b2e43ee2d8"/>
@@ -610,9 +580,9 @@
       fillColor="#ccccff">
     <bounds
         x="1248"
-        y="150"
+        y="180"
         width="241"
-        height="55"/>
+        height="121"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_495365e3-35e6-4590-aa21-9ae613d9d8a1.xml#495365e3-35e6-4590-aa21-9ae613d9d8a1"/>

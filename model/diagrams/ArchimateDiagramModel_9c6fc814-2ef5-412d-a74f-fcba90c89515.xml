@@ -919,19 +919,6 @@
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_414c3eb5-bbd5-453f-a5f1-b74048afdaee.xml#414c3eb5-bbd5-453f-a5f1-b74048afdaee"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="30867a4c-0911-4b76-aa17-066b40e382e9"
-        lineColor="#5c5c5c"
-        textAlignment="1"
-        fillColor="#ffffff"
-        content="VO en MBO waarbij de links in het portaal van school geplaatst zijn">
-      <bounds
-          x="180"
-          y="306"
-          width="132"
-          height="67"/>
-    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_3a57d2d8-f5fa-43ad-a7ad-4e0b95a755eb.xml#3a57d2d8-f5fa-43ad-a7ad-4e0b95a755eb"/>
@@ -1083,5 +1070,18 @@
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_0da8f897-2548-4ecf-b2bb-576bb2f5c00d.xml#0da8f897-2548-4ecf-b2bb-576bb2f5c00d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="30867a4c-0911-4b76-aa17-066b40e382e9"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Leerling vindt de links op basis van de eigen bestelling in het schoolportaal. Klik op een link leidt naar de toegangsservice van de uitgever. Deze valideert licentie en redirect de leerling naar de content. Identiteit van de leerling en herkomst (attributen) zijn beschikbaar vanuit SSO.&#xD;&#xA;&#xD;&#xA;Wordt toegepast in VO en somminge MBO">
+    <bounds
+        x="108"
+        y="576"
+        width="254"
+        height="157"/>
   </children>
 </archimate:ArchimateDiagramModel>

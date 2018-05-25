@@ -212,6 +212,11 @@
           lineColor="#000000"
           source="43b53af8-b2a0-4ece-8293-9e336677c064"
           target="1d6a99cd-0b2f-4a17-8834-f999c8588bb0">
+        <bendpoints
+            startX="48"
+            startY="207"
+            endX="150"
+            endY="2"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_816b6479-31ed-464e-ab1c-87d9be8115d6.xml#816b6479-31ed-464e-ab1c-87d9be8115d6"/>
@@ -222,6 +227,11 @@
           lineColor="#000000"
           source="43b53af8-b2a0-4ece-8293-9e336677c064"
           target="f35d4719-362e-433e-819f-892382cf5803">
+        <bendpoints
+            startX="48"
+            startY="267"
+            endX="150"
+            endY="2"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_0fa0e2e2-124c-477e-b98c-1d32650aeac3.xml#0fa0e2e2-124c-477e-b98c-1d32650aeac3"/>
@@ -232,6 +242,11 @@
           lineColor="#000000"
           source="43b53af8-b2a0-4ece-8293-9e336677c064"
           target="30b832d2-5702-4a94-a471-d559d431e71d">
+        <bendpoints
+            startX="60"
+            startY="327"
+            endX="138"
+            endY="-13"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_d9d9571a-2c89-4d87-890f-37f58342fd40.xml#d9d9571a-2c89-4d87-890f-37f58342fd40"/>
@@ -788,19 +803,6 @@
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_5a24b2c5-cd0b-452d-8b27-bf2c0e8221a4.xml#5a24b2c5-cd0b-452d-8b27-bf2c0e8221a4"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="f46deac2-991d-4226-bedb-4964cf7762d8"
-        lineColor="#5c5c5c"
-        textAlignment="1"
-        fillColor="#ffffff"
-        content="Portaal van MBO (kan ook VO zijn) waarbij gebruik wordt gemaakt van distributeursportaal voor gepersonaliseerde toegangslinks">
-      <bounds
-          x="24"
-          y="192"
-          width="205"
-          height="80"/>
-    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_3a57d2d8-f5fa-43ad-a7ad-4e0b95a755eb.xml#3a57d2d8-f5fa-43ad-a7ad-4e0b95a755eb"/>
@@ -1253,10 +1255,10 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="996"
-        y="609"
-        width="120"
-        height="55"/>
+        x="960"
+        y="564"
+        width="253"
+        height="68"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_22ecc470-88bf-4dff-add7-48c6b3045e20.xml#22ecc470-88bf-4dff-add7-48c6b3045e20"/>
@@ -1268,9 +1270,9 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="1034"
-        y="737"
-        width="120"
+        x="960"
+        y="631"
+        width="253"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Requirement"
@@ -1283,10 +1285,10 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="1067"
-        y="791"
-        width="120"
-        height="55"/>
+        x="960"
+        y="685"
+        width="253"
+        height="96"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_a16772f0-e1ac-4541-a843-f214601cdb29.xml#a16772f0-e1ac-4541-a843-f214601cdb29"/>
@@ -1320,5 +1322,18 @@
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_0da8f897-2548-4ecf-b2bb-576bb2f5c00d.xml#0da8f897-2548-4ecf-b2bb-576bb2f5c00d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="f46deac2-991d-4226-bedb-4964cf7762d8"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Portaal waarbij gebruik wordt gemaakt van distributeursportaal voor gepersonaliseerde toegangslinks. Leerling klikt vanuit schoolportaal naar distributeursportaal. In distributeursportaal zijn links beschikbaar van eigen bestellingen (besteld bij die distributeur). Klik op een link leidt naar de toegangsservice van de uitgever. Deze valideert licentie en redirect de leerling naar de content. Identiteit van de leerling en herkomst (attributen) zijn beschikbaar vanuit SSO.">
+    <bounds
+        x="108"
+        y="552"
+        width="254"
+        height="217"/>
   </children>
 </archimate:ArchimateDiagramModel>

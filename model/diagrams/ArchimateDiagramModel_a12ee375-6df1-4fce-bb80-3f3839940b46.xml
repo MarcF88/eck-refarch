@@ -427,12 +427,12 @@
             startX="108"
             startY="-3"
             endX="186"
-            endY="-381"/>
+            endY="-387"/>
         <bendpoints
             startX="108"
             startY="381"
             endX="186"
-            endY="3"/>
+            endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_060edd77-09bf-4d55-b532-78f68ef4892f.xml#060edd77-09bf-4d55-b532-78f68ef4892f"/>
@@ -447,7 +447,7 @@
             startX="108"
             startY="-3"
             endX="186"
-            endY="-450"/>
+            endY="-462"/>
         <bendpoints
             startX="108"
             startY="441"
@@ -815,7 +815,7 @@
         x="828"
         y="534"
         width="276"
-        height="55"/>
+        height="67"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_4010c953-1d98-4acd-b13a-ccd9c0a4b227.xml#4010c953-1d98-4acd-b13a-ccd9c0a4b227"/>
@@ -828,7 +828,7 @@
       fillColor="#ccccff">
     <bounds
         x="828"
-        y="588"
+        y="600"
         width="276"
         height="85"/>
     <archimateElement

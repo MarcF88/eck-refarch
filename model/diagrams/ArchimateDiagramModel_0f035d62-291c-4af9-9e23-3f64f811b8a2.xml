@@ -258,13 +258,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="979a2186-0386-42fe-a76a-d1ac6f35bcf9"
-        lineColor="#000000"
+        id="db5dad18-60e7-459c-8ce8-1b2711c4ab27"
         source="084c1cfd-db8f-4bd1-b0e6-2d2fed0e541a"
-        target="8d7cbd44-93c3-4dc9-be22-b7c07107a49f">
+        target="6df10638-aee0-4be7-b36d-a07ea2480817">
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_dcb7abf9-6c64-4740-a750-3677f01afb65.xml#dcb7abf9-6c64-4740-a750-3677f01afb65"/>
+          href="AggregationRelationship_36e48635-34ff-4e1b-83a8-a6bffbcb3fd1.xml#36e48635-34ff-4e1b-83a8-a6bffbcb3fd1"/>
     </sourceConnections>
     <bounds
         x="924"
@@ -277,16 +276,6 @@
         targetConnections="bf8e9b99-3f6e-4e3d-a3d8-4b862bee3fed"
         lineColor="#5c5c5c"
         fillColor="#afffff">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="64818a8c-9443-48e2-924f-00b820cab496"
-          lineColor="#000000"
-          source="98afdcaf-5409-4d53-89b5-1d6a370163eb"
-          target="8d7cbd44-93c3-4dc9-be22-b7c07107a49f">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_8a68c084-221b-46be-933d-30d178a3edd7.xml#8a68c084-221b-46be-933d-30d178a3edd7"/>
-      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="34d2e330-b3ba-4b4e-a316-7fb5959d4ebc"
@@ -317,9 +306,19 @@
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_bf543634-d1e6-4f6d-bd82-7255174b4680.xml#bf543634-d1e6-4f6d-bd82-7255174b4680"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="f5d4f562-a1d7-4935-b775-569305daf920"
+          lineColor="#000000"
+          source="98afdcaf-5409-4d53-89b5-1d6a370163eb"
+          target="6df10638-aee0-4be7-b36d-a07ea2480817">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_db3e09ed-30fd-4012-b933-e2319e13a3ca.xml#db3e09ed-30fd-4012-b933-e2319e13a3ca"/>
+      </sourceConnections>
       <bounds
           x="48"
-          y="96"
+          y="120"
           width="120"
           height="55"/>
       <archimateElement
@@ -328,18 +327,18 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="8d7cbd44-93c3-4dc9-be22-b7c07107a49f"
-        targetConnections="64818a8c-9443-48e2-924f-00b820cab496 979a2186-0386-42fe-a76a-d1ac6f35bcf9"
+        id="6df10638-aee0-4be7-b36d-a07ea2480817"
+        targetConnections="db5dad18-60e7-459c-8ce8-1b2711c4ab27 f5d4f562-a1d7-4935-b775-569305daf920"
         lineColor="#5c5c5c"
         fillColor="#e6ffe6">
       <bounds
           x="48"
-          y="192"
+          y="204"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
-          href="BusinessObject_995e13d3-46fa-4281-8e86-f0351a50f7e8.xml#995e13d3-46fa-4281-8e86-f0351a50f7e8"/>
+          href="BusinessObject_24ed3fe4-d404-4f4c-95a7-d6be351e4958.xml#24ed3fe4-d404-4f4c-95a7-d6be351e4958"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -590,9 +589,9 @@
       fillColor="#ffffff"
       content="03b scenario leveren aan leerling">
     <bounds
-        x="913"
-        y="456"
-        width="228"
+        x="47"
+        y="720"
+        width="217"
         height="49"/>
   </children>
   <children
@@ -652,11 +651,11 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Distributeur specificeert rechtstreeks bij uitgevers maar kan ook via centrale ketenvoorziening.&#xD;&#xA;Leerlingen die zonder ECK ID hebben besteld, maken gebruik van activatiecodes (worden geleverd bij het folio leermiddel; digitale levering door distributeur nog niet gestandaardiseerd)&#xD;&#xA;&#xD;&#xA;Wordt vooral toegepast in MBO">
+      content="Distributeur specificeert rechtstreeks bij uitgevers of via ketenvoorziening.&#xD;&#xA;Leerlingen die zonder ECK ID hebben besteld, maken gebruik van activatiecodes (worden geleverd bij het folio leermiddel; digitale levering door distributeur nog niet gestandaardiseerd)&#xD;&#xA;&#xD;&#xA;Wordt vooral toegepast in MBO">
     <bounds
-        x="596"
-        y="12"
-        width="318"
+        x="624"
+        y="48"
+        width="281"
         height="145"/>
   </children>
   <children

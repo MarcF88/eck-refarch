@@ -653,7 +653,7 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Besteller start in bestelomgeving van distributeur, deze zal in de loop van de afhandeling de leerling laten inloggen bij de onderwijsinstelling om ECK ID te verkrijgen. Pre-match niet noodzakelijk &#xD;&#xA;">
+      content="Besteller start in bestelomgeving van distributeur. Deze zal in de loop van de afhandeling de leerling laten inloggen bij de onderwijsinstelling om ECK ID te verkrijgen. Pre-match niet noodzakelijk &#xD;&#xA;">
     <sourceConnections
         id="e493815d-b101-487f-a77f-b10c8bb2b9f7"
         lineColor="#000000"
@@ -784,15 +784,16 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="349709bf-46c2-4a8c-840b-451007c84fa2"
+      font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="02c scenario bestellen door leerling IDP last VO+MBO">
+      content="02c scenario bestellen door leerling. Wordt toegepast in VO+MBO">
     <bounds
-        x="1424"
-        y="512"
+        x="1392"
+        y="504"
         width="185"
-        height="51"/>
+        height="61"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
