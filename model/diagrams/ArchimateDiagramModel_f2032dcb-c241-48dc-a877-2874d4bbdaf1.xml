@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="03a scenario leveren aan leerling met en zonder prematch VO"
+    name="03a scenario leveren van bestelling met en zonder prematch"
     id="f2032dcb-c241-48dc-a877-2874d4bbdaf1"
     documentation="&#xD;&#xA;Start: ?&#xD;&#xA;&#xD;&#xA;Stappen&#xD;&#xA;&#xD;&#xA;Eindresultaat: Uitgever heeft credits voor alle materiaal dat de leerling besteld heeft op basis van keten ID&#xD;&#xA;">
   <children
@@ -188,7 +188,7 @@
           startX="108"
           startY="10"
           endX="-144"
-          endY="-498"/>
+          endY="-552"/>
       <bendpoints
           startX="108"
           startY="471"
@@ -208,12 +208,12 @@
           startX="108"
           startY="10"
           endX="-144"
-          endY="-578"/>
+          endY="-471"/>
       <bendpoints
           startX="108"
-          startY="586"
+          startY="478"
           endX="-144"
-          endY="-2"/>
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_079edaba-083a-4437-89fb-f55f7c73fbe1.xml#079edaba-083a-4437-89fb-f55f7c73fbe1"/>
@@ -719,12 +719,12 @@
           startX="-72"
           startY="6"
           endX="144"
-          endY="-666"/>
+          endY="-720"/>
       <bendpoints
           startX="-72"
-          startY="594"
+          startY="690"
           endX="144"
-          endY="-19"/>
+          endY="-36"/>
       <archimateRelationship
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_479e9e15-c6fa-4c1d-a664-0a1ceaf1e91b.xml#479e9e15-c6fa-4c1d-a664-0a1ceaf1e91b"/>
@@ -739,12 +739,12 @@
           startX="-72"
           startY="6"
           endX="144"
-          endY="-746"/>
+          endY="-639"/>
       <bendpoints
           startX="-72"
-          startY="750"
+          startY="642"
           endX="144"
-          endY="-2"/>
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_a6febe24-ca43-4a34-90b1-a61610411220.xml#a6febe24-ca43-4a34-90b1-a61610411220"/>
@@ -1024,7 +1024,7 @@
       fillColor="#ccccff">
     <bounds
         x="588"
-        y="912"
+        y="966"
         width="217"
         height="108"/>
     <archimateElement
@@ -1046,28 +1046,13 @@
         height="110"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="e57a7fe8-53d8-438b-b345-56049eb59af6"
-      targetConnections="d8ad9483-8543-469a-8ec0-961b8299ea7e 32638ab4-73f4-48ea-b351-c4fbf358b1c8"
-      lineColor="#5c5c5c"
-      fillColor="#ccccff">
-    <bounds
-        x="588"
-        y="1019"
-        width="217"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Requirement"
-        href="Requirement_0da8f897-2548-4ecf-b2bb-576bb2f5c00d.xml#0da8f897-2548-4ecf-b2bb-576bb2f5c00d"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelNote"
       id="5408dc34-6455-4d7d-835f-f2c5c9c6c1ee"
       font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="03a Scenario Leveren aan leerlingen en scholen (specificeren) met en zonder prematch. ">
+      content="03a Scenario Leveren van bestelling (specificeren) van leerlingen en scholen met en zonder prematch. ">
     <bounds
         x="84"
         y="815"
@@ -1096,5 +1081,20 @@
         y="48"
         width="132"
         height="116"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e57a7fe8-53d8-438b-b345-56049eb59af6"
+      targetConnections="d8ad9483-8543-469a-8ec0-961b8299ea7e 32638ab4-73f4-48ea-b351-c4fbf358b1c8"
+      lineColor="#5c5c5c"
+      fillColor="#ccccff">
+    <bounds
+        x="588"
+        y="912"
+        width="217"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_0da8f897-2548-4ecf-b2bb-576bb2f5c00d.xml#0da8f897-2548-4ecf-b2bb-576bb2f5c00d"/>
   </children>
 </archimate:ArchimateDiagramModel>

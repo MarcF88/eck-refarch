@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="04a scenario linkjes leveren VO"
+    name="04a scenario linkjes leveren via ketenvoorziening"
     id="8c3dbb9d-5800-49dc-bd47-5427e3daccdc"
     documentation="1. Leerling is ingelogd&#xD;&#xA;2. Leerling klikt op link in portaal naar 'bestelomgeving' van distributeur&#xD;&#xA;3. Bestelsysteem haalt attributen volgens ARP op bij SSO omgeving&#xD;&#xA;4. Bestelsysteem ordert bestellingen bij uitgever (anoniem, niet voorzien van ECK ID)&#xD;&#xA;5. Bestelsysteem specifieert ECK ID van leerling bij bestelling&#xD;&#xA;">
   <children

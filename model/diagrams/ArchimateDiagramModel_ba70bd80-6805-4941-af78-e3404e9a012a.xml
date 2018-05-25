@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="02c scenario bestellen door leerling IDP last VO+MBO"
+    name="02c scenario bestellen door leerling IDP last"
     id="ba70bd80-6805-4941-af78-e3404e9a012a"
     documentation="Start: leerling = besteller, is ingelogd op school, gebruikt ECK ID en SSO.&#xD;&#xA;&#xD;&#xA;Leerling logt in bij op school&#xD;&#xA;Leerling navigeert in portaal naar link naar bestelomgeving(en) distributeur&#xD;&#xA;Leerling wordt geautheticeerd bij distributeur (SSO) en gekoppeld aan keten ID&#xD;&#xA;Leerling landt op gepersonaliseerde bestelpagina&#xD;&#xA;Leerling bestelt&#xD;&#xA;&#xD;&#xA;Eindresultaat: lijst met bestellingen van leerling (geidentificeerd met keten ID ) beschikbaar bij uitgever&#xD;&#xA;">
   <children

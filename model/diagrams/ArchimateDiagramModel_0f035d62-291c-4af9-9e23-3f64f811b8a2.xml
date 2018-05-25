@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="03b scenario leveren aan leerling IDP first MBO"
+    name="03b scenario leveren van bestelling IDP first"
     id="0f035d62-291c-4af9-9e23-3f64f811b8a2"
     documentation="&#xD;&#xA;Start: ?&#xD;&#xA;&#xD;&#xA;Stappen&#xD;&#xA;&#xD;&#xA;Eindresultaat: Uitgever heeft credits voor alle materiaal dat de leerling besteld heeft op basis van keten ID&#xD;&#xA;">
   <children
@@ -587,7 +587,7 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="03b scenario leveren aan leerling">
+      content="03b scenario leveren van bestelling (specificeren) rechtstreeks">
     <bounds
         x="47"
         y="720"
