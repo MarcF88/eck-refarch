@@ -840,18 +840,4 @@
         width="289"
         height="133"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="d1e48ab8-15aa-4e77-82c2-6bef069d3b31"
-      lineColor="#5c5c5c"
-      fillColor="#ccccff">
-    <bounds
-        x="-288"
-        y="924"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Requirement"
-        href="Requirement_0da8f897-2548-4ecf-b2bb-576bb2f5c00d.xml#0da8f897-2548-4ecf-b2bb-576bb2f5c00d"/>
-  </children>
 </archimate:ArchimateDiagramModel>
