@@ -6,46 +6,6 @@
     documentation="&#xD;&#xA;Start: ?&#xD;&#xA;&#xD;&#xA;Stappen&#xD;&#xA;&#xD;&#xA;Eindresultaat: Uitgever heeft credits voor alle materiaal dat de leerling besteld heeft op basis van keten ID&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="4da7becf-203d-4e79-8e67-61981079877f"
-      targetConnections="1d49ee99-1b7a-42e0-bd71-063b2ebcef16"
-      lineColor="#5c5c5c"
-      fillColor="#ffffff">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="5649eaae-5b71-4a51-be1d-a0ccb43f6642"
-        lineColor="#000000"
-        source="4da7becf-203d-4e79-8e67-61981079877f"
-        target="924774b1-1a1d-4f58-af93-a9a83a89785b">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_bdfa1cb6-d868-4fe1-9e83-78a1f6b8ac59.xml#bdfa1cb6-d868-4fe1-9e83-78a1f6b8ac59"/>
-    </sourceConnections>
-    <bounds
-        x="47"
-        y="168"
-        width="217"
-        height="277"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="924774b1-1a1d-4f58-af93-a9a83a89785b"
-        targetConnections="5649eaae-5b71-4a51-be1d-a0ccb43f6642"
-        lineColor="#5c5c5c"
-        fillColor="#afffff">
-      <bounds
-          x="36"
-          y="120"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_93a3c62c-4d65-448d-b24d-4f4c8f70e7fc.xml#93a3c62c-4d65-448d-b24d-4f4c8f70e7fc"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_3a57d2d8-f5fa-43ad-a7ad-4e0b95a755eb.xml#3a57d2d8-f5fa-43ad-a7ad-4e0b95a755eb"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="9f3c9f97-fc6b-401c-ab45-72a83121f2c2"
       targetConnections="61c199ff-d5da-4a71-b989-2260448281a9"
       lineColor="#5c5c5c"
@@ -308,30 +268,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="d24cf63e-b6f6-4101-9405-8d09c01006e3"
-      lineColor="#5c5c5c"
-      fillColor="#e6ffff">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1d49ee99-1b7a-42e0-bd71-063b2ebcef16"
-        lineColor="#000000"
-        source="d24cf63e-b6f6-4101-9405-8d09c01006e3"
-        target="4da7becf-203d-4e79-8e67-61981079877f">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_5bf1c049-8020-493a-8e4c-1b4bef09c6f8.xml#5bf1c049-8020-493a-8e4c-1b4bef09c6f8"/>
-    </sourceConnections>
-    <bounds
-        x="96"
-        y="66"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_b635ba2a-498b-4825-b11a-aa6b88a69e99.xml#b635ba2a-498b-4825-b11a-aa6b88a69e99"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="05f4dea0-fc46-437f-8f4e-9560bb17dd20"
       targetConnections="34d2e330-b3ba-4b4e-a316-7fb5959d4ebc"
       lineColor="#5c5c5c"
@@ -362,12 +298,12 @@
           startX="-72"
           startY="9"
           endX="198"
-          endY="-351"/>
+          endY="-159"/>
       <bendpoints
           startX="-72"
-          startY="357"
+          startY="177"
           endX="198"
-          endY="-3"/>
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_bef114be-d60f-40cf-84cb-83b9e98eb5ad.xml#bef114be-d60f-40cf-84cb-83b9e98eb5ad"/>
@@ -382,12 +318,12 @@
           startX="-72"
           startY="9"
           endX="198"
-          endY="-405"/>
+          endY="-213"/>
       <bendpoints
           startX="-72"
-          startY="405"
+          startY="225"
           endX="198"
-          endY="-9"/>
+          endY="3"/>
       <archimateRelationship
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_a6febe24-ca43-4a34-90b1-a61610411220.xml#a6febe24-ca43-4a34-90b1-a61610411220"/>
@@ -441,8 +377,8 @@
       fillColor="#ffffff"
       content="03b scenario leveren van bestelling (specificeren) rechtstreeks">
     <bounds
-        x="47"
-        y="720"
+        x="348"
+        y="672"
         width="217"
         height="49"/>
   </children>
@@ -453,7 +389,7 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Distributeur specificeert rechtstreeks bij uitgevers of via ketenvoorziening.&#xD;&#xA;Leerlingen die zonder ECK ID hebben besteld, maken gebruik van activatiecodes (worden geleverd bij het folio leermiddel; digitale levering door distributeur nog niet gestandaardiseerd)&#xD;&#xA;&#xD;&#xA;Wordt vooral toegepast in MBO">
+      content="Distributeur specificeert rechtstreeks bij uitgevers.&#xD;&#xA;Leerlingen die zonder ECK ID hebben besteld, maken gebruik van activatiecodes (worden geleverd bij het folio leermiddel; digitale levering door distributeur nog niet gestandaardiseerd)&#xD;&#xA;&#xD;&#xA;Wordt vooral toegepast in MBO">
     <bounds
         x="624"
         y="48"
@@ -468,7 +404,7 @@
       fillColor="#ccccff">
     <bounds
         x="348"
-        y="684"
+        y="492"
         width="349"
         height="55"/>
     <archimateElement
@@ -489,7 +425,7 @@
         target="661eba17-2fa9-46b0-b504-a042fe199e0a">
       <bendpoints
           startX="24"
-          startY="171"
+          startY="63"
           endX="-191"
           endY="-3"/>
       <archimateRelationship
@@ -504,7 +440,7 @@
         target="afb0802d-cddd-4ca1-a17c-31a21a8c99af">
       <bendpoints
           startX="24"
-          startY="231"
+          startY="123"
           endX="-191"
           endY="-6"/>
       <archimateRelationship
@@ -519,7 +455,7 @@
         target="dbb8d3d0-4fb8-454f-a7bf-8374f0f2f6e2">
       <bendpoints
           startX="24"
-          startY="303"
+          startY="195"
           endX="-191"
           endY="-6"/>
       <archimateRelationship
@@ -534,7 +470,7 @@
         target="fc2e2e8e-e69c-480c-a038-79c62b69f13e">
       <bendpoints
           startX="24"
-          startY="375"
+          startY="267"
           endX="-191"
           endY="-12"/>
       <archimateRelationship
@@ -558,7 +494,7 @@
       fillColor="#ccccff">
     <bounds
         x="857"
-        y="564"
+        y="456"
         width="301"
         height="55"/>
     <archimateElement
@@ -573,7 +509,7 @@
       fillColor="#ccccff">
     <bounds
         x="857"
-        y="618"
+        y="510"
         width="301"
         height="73"/>
     <archimateElement
@@ -588,7 +524,7 @@
       fillColor="#ccccff">
     <bounds
         x="857"
-        y="690"
+        y="582"
         width="301"
         height="73"/>
     <archimateElement
@@ -603,7 +539,7 @@
       fillColor="#ccccff">
     <bounds
         x="857"
-        y="762"
+        y="654"
         width="301"
         height="85"/>
     <archimateElement
@@ -618,7 +554,7 @@
       fillColor="#ccccff">
     <bounds
         x="348"
-        y="738"
+        y="546"
         width="349"
         height="55"/>
     <archimateElement
