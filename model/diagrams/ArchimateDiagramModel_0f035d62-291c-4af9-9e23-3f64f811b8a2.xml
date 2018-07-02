@@ -299,12 +299,12 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="03b scenario rechtstreeks leveren van bestelling (specificeren)&#xD;&#xA;">
+      content="03b scenario rechtstreeks leveren van bestelling (specificeren)&#xD;&#xA;&#xD;&#xA;Wordt vooral toegepast in MBO">
     <bounds
         x="324"
         y="618"
         width="217"
-        height="49"/>
+        height="67"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -313,12 +313,12 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Distributeur specificeert rechtstreeks bij uitgevers. Scenario veronderstelt bestellingen op basis van ECK iD, bestellingen zonder ECK iD gaan op basis van het 'IDP last' scenario.&#xD;&#xA;&#xD;&#xA;Wordt vooral toegepast in MBO">
+      content="Distributeur specificeert rechtstreeks bij uitgevers. Scenario veronderstelt bestellingen op basis van ECK iD, bestellingen zonder ECK iD gaan op basis van het 'IDP last' scenario.&#xD;&#xA;">
     <bounds
         x="588"
         y="66"
         width="281"
-        height="109"/>
+        height="79"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -926,15 +926,16 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="4ad9c44f-0b66-4cf1-ac87-c416fd9e50b5"
+      font="1|Segoe UI|9.0|2|WINDOWS|1|-12|0|0|0|400|-1|0|0|0|3|2|1|34|Segoe UI"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="05a scenario Gebruik vanuit schoolportaal&#xD;&#xA;">
+      content="05a scenario Gebruik vanuit schoolportaal&#xD;&#xA;&#xD;&#xA;Wordt gebruikt in VO en beperkt in MBO">
     <bounds
         x="103"
         y="24"
         width="180"
-        height="40"/>
+        height="70"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1077,11 +1078,11 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Leerling vindt de links op basis van de eigen bestelling in het schoolportaal. Klik op een link leidt naar de toegangsservice van de uitgever. Deze valideert licentie en redirect de leerling naar de content. Identiteit van de leerling en herkomst (attributen) zijn beschikbaar vanuit SSO.&#xD;&#xA;&#xD;&#xA;Wordt toegepast in VO en somminge MBO">
+      content="Leerling vindt de geldige links op basis van de eigen bestelling (gepersonaliseerd) in het schoolportaal. &#xD;&#xA;Een klik op een link leidt naar de toegangsservice van de uitgever. &#xD;&#xA;Bij de eerste toegang wordt de licentie gectiveerd.&#xD;&#xA;De uitgever valideert licentie en redirect de leerling naar de content. &#xD;&#xA;Identiteit van de leerling en herkomst (attributen) zijn beschikbaar voor uitgever vanuit SSO.&#xD;&#xA;">
     <bounds
         x="108"
         y="576"
         width="254"
-        height="157"/>
+        height="181"/>
   </children>
 </archimate:ArchimateDiagramModel>
