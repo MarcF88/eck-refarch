@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="02a scenario bestellen door leerling bij distributeur"
+    name="02c scenario bestellen door leerling bij distributeur"
     id="06d3fbfc-5496-40a9-bf54-c7a2449f97a1"
     documentation="Start: geen vooronderstellingen over leerling. Besteller hoeft niet leerling te zijn. ECK ID en SSO niet nodig.&#xD;&#xA;&#xD;&#xA;Besteller logt in bij distributeur&#xD;&#xA;Besteller navigeert naar bestelomgeving voor zijn school&#xD;&#xA;Besteller bestelt&#xD;&#xA;&#xD;&#xA;Eindresultaat: lijst met bestellingen van besteller (geidentificeerd met ID van distributeur) beschikbaar">
   <children
@@ -21,39 +21,21 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="0c5290dd-52cd-4143-b391-c2649454d464"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="In algemene zin kan het 'orderen' op verschillende manieren plaatsvinden. Dit betreft alleen de digitale stuks-order">
-    <sourceConnections
-        id="1d3ee746-e35c-4ea4-b261-88c073e22041"
-        lineColor="#000000"
-        source="0c5290dd-52cd-4143-b391-c2649454d464"
-        target="32e3d503-aadf-4ffb-a5e5-07cebc134934"/>
-    <bounds
-        x="612"
-        y="42"
-        width="185"
-        height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="c3df105d-388b-45e3-9229-21cdc28ddbcd"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Leerling heeft hier bestelling op basis van identificatie bij distributeur. Pre-match noodzakelijk voor match met identificatie vanuit school">
+      content="Leerling heeft hier bestelling op basis van identificatie bij distributeur. Pre-match, IDP-last of andere maatregel noodzakelijk voor match met identificatie vanuit school.">
     <sourceConnections
         id="00f19728-f61c-46d5-8b0b-855758999689"
         lineColor="#000000"
         source="c3df105d-388b-45e3-9229-21cdc28ddbcd"
         target="35ccdb97-9751-4133-bde2-588b48ef1967"/>
     <bounds
-        x="36"
-        y="36"
-        width="217"
-        height="88"/>
+        x="72"
+        y="71"
+        width="373"
+        height="64"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -585,12 +567,12 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="02a scenario bestellen door leerling bij distributeur&#xD;&#xA;In gebruik bij VO + MBO&#xD;&#xA;">
+      content="02c scenario bestellen door leerling bij distributeur.&#xD;&#xA;&#xD;&#xA;In gebruik bij VO + MBO&#xD;&#xA;">
     <bounds
-        x="892"
-        y="40"
+        x="660"
+        y="71"
         width="185"
-        height="57"/>
+        height="74"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -736,5 +718,23 @@
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_812baee7-3741-4900-a327-d734a30724f7.xml#812baee7-3741-4900-a327-d734a30724f7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="76cb13a3-9e74-4773-ae7b-0f2b644b8106"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Order service is i.h.a. beschikbaar, wordt echter in VO niet algemeen gebruikt">
+    <sourceConnections
+        id="1d3ee746-e35c-4ea4-b261-88c073e22041"
+        lineColor="#000000"
+        source="76cb13a3-9e74-4773-ae7b-0f2b644b8106"
+        target="32e3d503-aadf-4ffb-a5e5-07cebc134934"/>
+    <bounds
+        x="648"
+        y="228"
+        width="185"
+        height="67"/>
   </children>
 </archimate:ArchimateDiagramModel>
