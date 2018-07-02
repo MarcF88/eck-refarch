@@ -376,12 +376,12 @@
         <bendpoints
             startY="60"
             endX="312"
-            endY="-465"/>
+            endY="-495"/>
         <bendpoints
             startX="-120"
             startY="60"
             endX="192"
-            endY="-465"/>
+            endY="-495"/>
         <bendpoints
             startX="-120"
             startY="516"
@@ -400,12 +400,12 @@
         <bendpoints
             startY="60"
             endX="312"
-            endY="-411"/>
+            endY="-426"/>
         <bendpoints
             startX="-120"
             startY="60"
             endX="192"
-            endY="-411"/>
+            endY="-426"/>
         <bendpoints
             startX="-120"
             startY="468"
@@ -424,12 +424,12 @@
         <bendpoints
             startY="60"
             endX="312"
-            endY="-519"/>
+            endY="-543"/>
         <bendpoints
             startX="-120"
             startY="60"
             endX="192"
-            endY="-519"/>
+            endY="-543"/>
         <bendpoints
             startX="-120"
             startY="576"
@@ -448,12 +448,12 @@
         <bendpoints
             startY="60"
             endX="312"
-            endY="-579"/>
+            endY="-597"/>
         <bendpoints
             startX="-120"
             startY="60"
             endX="192"
-            endY="-579"/>
+            endY="-597"/>
         <bendpoints
             startX="-120"
             startY="636"
@@ -805,12 +805,12 @@
             startX="-6"
             startY="75"
             endX="-288"
-            endY="-489"/>
+            endY="-519"/>
         <bendpoints
             startX="102"
             startY="75"
             endX="-180"
-            endY="-489"/>
+            endY="-519"/>
         <bendpoints
             startX="102"
             startY="555"
@@ -830,12 +830,12 @@
             startX="-6"
             startY="75"
             endX="-288"
-            endY="-435"/>
+            endY="-450"/>
         <bendpoints
             startX="102"
             startY="75"
             endX="-180"
-            endY="-435"/>
+            endY="-450"/>
         <bendpoints
             startX="102"
             startY="507"
@@ -855,12 +855,12 @@
             startX="-6"
             startY="75"
             endX="-288"
-            endY="-603"/>
+            endY="-621"/>
         <bendpoints
             startX="102"
             startY="75"
             endX="-180"
-            endY="-603"/>
+            endY="-621"/>
         <bendpoints
             startX="102"
             startY="675"
@@ -974,7 +974,7 @@
       fillColor="#ccccff">
     <bounds
         x="504"
-        y="750"
+        y="780"
         width="313"
         height="55"/>
     <archimateElement
@@ -1006,7 +1006,7 @@
         x="1104"
         y="606"
         width="277"
-        height="55"/>
+        height="43"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_2b490ed6-760d-4387-aad4-6482b34c03f5.xml#2b490ed6-760d-4387-aad4-6482b34c03f5"/>
@@ -1019,7 +1019,7 @@
       fillColor="#ccccff">
     <bounds
         x="1104"
-        y="660"
+        y="648"
         width="277"
         height="91"/>
     <archimateElement
@@ -1036,7 +1036,7 @@
         x="504"
         y="696"
         width="313"
-        height="55"/>
+        height="85"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_495365e3-35e6-4590-aa21-9ae613d9d8a1.xml#495365e3-35e6-4590-aa21-9ae613d9d8a1"/>
@@ -1049,7 +1049,7 @@
       fillColor="#ccccff">
     <bounds
         x="504"
-        y="858"
+        y="876"
         width="313"
         height="67"/>
     <archimateElement
@@ -1064,9 +1064,9 @@
       fillColor="#ccccff">
     <bounds
         x="504"
-        y="804"
+        y="834"
         width="313"
-        height="55"/>
+        height="43"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_0da8f897-2548-4ecf-b2bb-576bb2f5c00d.xml#0da8f897-2548-4ecf-b2bb-576bb2f5c00d"/>

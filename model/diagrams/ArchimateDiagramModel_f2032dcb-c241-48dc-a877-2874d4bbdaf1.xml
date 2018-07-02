@@ -981,7 +981,7 @@
         x="954"
         y="792"
         width="325"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_23f2ce3e-b39a-45ee-b0cb-e4083093f976.xml#23f2ce3e-b39a-45ee-b0cb-e4083093f976"/>
@@ -994,9 +994,9 @@
       fillColor="#ccccff">
     <bounds
         x="954"
-        y="846"
+        y="864"
         width="325"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_812baee7-3741-4900-a327-d734a30724f7.xml#812baee7-3741-4900-a327-d734a30724f7"/>

@@ -220,14 +220,14 @@
           source="d25e1fad-eb42-4b6b-a49e-4c693a3600b7"
           target="33d5e30b-7e0b-44e2-8025-f4dbf9813c6f">
         <bendpoints
-            startX="120"
+            startX="108"
             startY="-3"
-            endX="180"
+            endX="186"
             endY="-291"/>
         <bendpoints
-            startX="120"
+            startX="108"
             startY="285"
-            endX="180"
+            endX="186"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
@@ -240,14 +240,14 @@
           source="d25e1fad-eb42-4b6b-a49e-4c693a3600b7"
           target="dc41537d-d1d0-4b3d-a2c3-1ab6a8fd5917">
         <bendpoints
-            startX="120"
+            startX="108"
             startY="-3"
-            endX="180"
+            endX="186"
             endY="-345"/>
         <bendpoints
-            startX="120"
+            startX="108"
             startY="345"
-            endX="180"
+            endX="186"
             endY="3"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
@@ -260,14 +260,14 @@
           source="d25e1fad-eb42-4b6b-a49e-4c693a3600b7"
           target="6fbcbff5-1a7a-42bb-b1f8-17fcf506a8ac">
         <bendpoints
-            startX="120"
+            startX="108"
             startY="-3"
-            endX="180"
+            endX="186"
             endY="-399"/>
         <bendpoints
-            startX="120"
+            startX="108"
             startY="393"
-            endX="180"
+            endX="186"
             endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
@@ -280,15 +280,15 @@
           source="d25e1fad-eb42-4b6b-a49e-4c693a3600b7"
           target="fe7a41fd-572b-4395-9c69-6ed9ddcff278">
         <bendpoints
-            startX="120"
+            startX="108"
             startY="-3"
-            endX="180"
-            endY="-555"/>
+            endX="186"
+            endY="-525"/>
         <bendpoints
-            startX="120"
-            startY="549"
-            endX="180"
-            endY="-3"/>
+            startX="108"
+            startY="525"
+            endX="186"
+            endY="3"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_da762f11-d30b-4d2f-88b2-46e9507ce91a.xml#da762f11-d30b-4d2f-88b2-46e9507ce91a"/>
@@ -300,14 +300,15 @@
           source="d25e1fad-eb42-4b6b-a49e-4c693a3600b7"
           target="7c2dacbe-7eb4-4808-8a7a-497d89239587">
         <bendpoints
-            startX="120"
+            startX="108"
             startY="-3"
-            endX="179"
-            endY="-468"/>
+            endX="186"
+            endY="-459"/>
         <bendpoints
-            startX="120"
-            startY="465"
-            endX="179"/>
+            startX="108"
+            startY="453"
+            endX="186"
+            endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:InfluenceRelationship"
             href="InfluenceRelationship_0fb0e7e6-0f1a-442f-93b6-34d384c802f6.xml#0fb0e7e6-0f1a-442f-93b6-34d384c802f6"/>
@@ -668,9 +669,9 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="264"
+        x="227"
         y="588"
-        width="289"
+        width="326"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Requirement"
@@ -683,9 +684,9 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="264"
+        x="227"
         y="642"
-        width="289"
+        width="326"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Requirement"
@@ -698,9 +699,9 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="264"
+        x="227"
         y="696"
-        width="289"
+        width="326"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Requirement"
@@ -713,10 +714,10 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="265"
+        x="227"
         y="750"
-        width="288"
-        height="85"/>
+        width="326"
+        height="67"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_23f2ce3e-b39a-45ee-b0cb-e4083093f976.xml#23f2ce3e-b39a-45ee-b0cb-e4083093f976"/>
@@ -728,10 +729,10 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="264"
-        y="834"
-        width="289"
-        height="91"/>
+        x="227"
+        y="816"
+        width="326"
+        height="67"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_812baee7-3741-4900-a327-d734a30724f7.xml#812baee7-3741-4900-a327-d734a30724f7"/>
