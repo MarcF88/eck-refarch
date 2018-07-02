@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="01 scenario schoolportaal"
+    name="01 Voorbereiding identity provisioning"
     id="d1dac661-a6a7-4547-a4b8-e74e87ee5da9"
     documentation="Eindresultaat: leerling is (met gevalideerde identiteit) geregistreerd in leerlingadministratiesysteem, is voorzien van een ECK ID, heeft toegang tot authenticatiesysteem en portaalfunctie van de onderwijsinstelling&#xD;&#xA;">
   <children
