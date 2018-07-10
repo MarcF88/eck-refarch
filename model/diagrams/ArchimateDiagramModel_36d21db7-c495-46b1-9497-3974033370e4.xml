@@ -449,16 +449,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="ee6b5bfe-e0cf-42ca-bc4a-df60a506cffc"
-          lineColor="#000000"
-          source="364fe234-c694-45e1-9d23-92e211ceddcd"
-          target="bb106350-1d73-44a9-b22d-5fa13e2ae139">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_e2211d09-020a-40cf-aedc-b35f8c7805a3.xml#e2211d09-020a-40cf-aedc-b35f8c7805a3"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="86ed2c64-1d91-41d0-b5ca-9d96a64a6d46"
           lineColor="#000000"
           source="364fe234-c694-45e1-9d23-92e211ceddcd"
@@ -723,21 +713,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_e78d4f38-f7bd-4109-856e-2422850783ad.xml#e78d4f38-f7bd-4109-856e-2422850783ad"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="bb106350-1d73-44a9-b22d-5fa13e2ae139"
-      targetConnections="ee6b5bfe-e0cf-42ca-bc4a-df60a506cffc"
-      lineColor="#5c5c5c"
-      fillColor="#ffffaf">
-    <bounds
-        x="852"
-        y="192"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_b032bd7c-7557-44cc-90bf-83250246c980.xml#b032bd7c-7557-44cc-90bf-83250246c980"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1018,7 +993,7 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="03a Scenario Leveren van bestelling (specificeren) van leerlingen en scholen met prematch. &#xD;&#xA;&#xD;&#xA;Wodt toegepast voor VO scholen waarbij het ECK iD niet beschikbaar is tijdens bestelling.">
+      content="03c Scenario Leveren van bestelling (specificeren) van leerlingen met prematch. &#xD;&#xA;&#xD;&#xA;Wodt toegepast voor VO scholen waarbij het ECK iD niet beschikbaar is tijdens bestelling.">
     <bounds
         x="84"
         y="779"
