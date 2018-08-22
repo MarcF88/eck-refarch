@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="29b18edc-7847-4c62-996e-99d247d576c2"
-      name="01 Scenario schoolportaal"
+      name="01 Voorbereiding"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#d2d7d7">
@@ -14,18 +14,7 @@
         id="c9aa9850-b047-48d8-96f5-02a20fc7357c"
         lineColor="#000000"
         source="29b18edc-7847-4c62-996e-99d247d576c2"
-        target="8ae3a447-28db-4417-9ef7-a750675e1cee">
-      <bendpoints
-          startX="306"
-          startY="12"
-          endX="306"
-          endY="-310"/>
-      <bendpoints
-          startX="306"
-          startY="324"
-          endX="306"
-          endY="2"/>
-    </sourceConnections>
+        target="02189f71-c698-4540-92bd-2e9358363186"/>
     <bounds
         x="36"
         y="24"
@@ -48,7 +37,13 @@
           lineWidth="2"
           lineColor="#000000"
           source="8ae46066-6eb0-4bff-bfae-dbd19bdbbd25"
-          target="c8e12a45-900f-4fd1-9405-1305751ec7d0"/>
+          target="c8e12a45-900f-4fd1-9405-1305751ec7d0">
+        <bendpoints
+            startX="48"
+            startY="69"
+            endX="-12"
+            endY="-84"/>
+      </sourceConnections>
       <bounds
           x="72"
           y="36"
@@ -62,7 +57,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="9b4d28f9-11af-4325-a043-dd7daaa6b61f"
-      name="02 Bestellen door leerlingen"
+      name="02 Bestellen"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#d2d7d7">
@@ -82,13 +77,14 @@
           source="220fbf40-277c-4de1-a30a-b569d7cada98"
           target="9294fcfc-b80c-4e44-9773-87b05a1f7ef2">
         <bendpoints
-            startY="84"
-            endX="78"
+            startX="-12"
+            startY="78"
+            endX="108"
             endY="-84"/>
         <bendpoints
-            startX="-72"
-            startY="84"
-            endX="6"
+            startX="-108"
+            startY="78"
+            endX="18"
             endY="-84"/>
       </sourceConnections>
       <sourceConnections
@@ -97,19 +93,21 @@
           source="220fbf40-277c-4de1-a30a-b569d7cada98"
           target="5d6da82e-9b81-4692-ac79-52efaf595a14">
         <bendpoints
-            startY="84"
-            endX="-60"
+            startX="-12"
+            startY="78"
+            endX="-24"
             endY="-84"/>
         <bendpoints
-            startX="60"
-            startY="84"
+            startX="24"
+            startY="78"
+            endX="12"
             endY="-84"/>
       </sourceConnections>
       <bounds
-          x="360"
+          x="408"
           y="36"
           width="120"
-          height="73"/>
+          height="85"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_06d3fbfc-5496-40a9-bf54-c7a2449f97a1.xml#06d3fbfc-5496-40a9-bf54-c7a2449f97a1"/>
@@ -126,23 +124,27 @@
           lineWidth="2"
           lineColor="#000000"
           source="8c3c2481-70d8-4291-8e5c-9a042d7d9185"
-          target="b8b39c32-d4cf-45bc-a842-60a52e98e3c6">
+          target="b8b39c32-d4cf-45bc-a842-60a52e98e3c6"/>
+      <sourceConnections
+          id="908e1908-3375-4197-bd73-030eae82c34b"
+          lineColor="#000000"
+          source="8c3c2481-70d8-4291-8e5c-9a042d7d9185"
+          target="8ae3a447-28db-4417-9ef7-a750675e1cee"/>
+      <sourceConnections
+          id="51239913-3ee9-46c4-8dfe-a1d41fd9bab3"
+          lineWidth="2"
+          lineColor="#000000"
+          source="8c3c2481-70d8-4291-8e5c-9a042d7d9185"
+          target="4f3f33cd-ede6-4363-b20d-982c7ec79e9a">
         <bendpoints
-            startY="60"
-            endY="-108"/>
+            startY="48"
+            endX="-132"
+            endY="-120"/>
         <bendpoints
-            startX="60"
-            startY="60"
-            endX="60"
-            endY="-108"/>
-        <bendpoints
-            startX="60"
-            startY="84"
-            endX="60"
-            endY="-84"/>
-        <bendpoints
-            startY="84"
-            endY="-84"/>
+            startX="84"
+            startY="48"
+            endX="-48"
+            endY="-120"/>
       </sourceConnections>
       <bounds
           x="12"
@@ -157,31 +159,31 @@
         xsi:type="archimate:DiagramModelReference"
         id="c8e12a45-900f-4fd1-9405-1305751ec7d0"
         targetConnections="76fa5639-da18-4471-8250-cbefbf4aa5e4"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         lineColor="#5c5c5c"
         fillColor="#dcebeb">
       <sourceConnections
-          id="51239913-3ee9-46c4-8dfe-a1d41fd9bab3"
+          id="8f480d44-52a8-4e57-8b0c-8feb8afb146d"
           lineWidth="2"
           lineColor="#000000"
           source="c8e12a45-900f-4fd1-9405-1305751ec7d0"
-          target="4f3f33cd-ede6-4363-b20d-982c7ec79e9a">
+          target="b8b39c32-d4cf-45bc-a842-60a52e98e3c6">
         <bendpoints
-            startY="60"
-            endY="-108"/>
+            startY="72"
+            endX="132"
+            endY="-96"/>
         <bendpoints
-            startX="-72"
-            startY="60"
-            endX="-72"
-            endY="-108"/>
-        <bendpoints
-            startX="-72"
-            startY="84"
-            endX="-72"
-            endY="-84"/>
-        <bendpoints
-            startY="84"
-            endY="-84"/>
+            startX="-108"
+            startY="72"
+            endX="24"
+            endY="-96"/>
       </sourceConnections>
+      <sourceConnections
+          id="33d6d23d-9e74-47c7-a8ef-74a712e78fab"
+          lineWidth="2"
+          lineColor="#000000"
+          source="c8e12a45-900f-4fd1-9405-1305751ec7d0"
+          target="4f3f33cd-ede6-4363-b20d-982c7ec79e9a"/>
       <bounds
           x="144"
           y="36"
@@ -191,12 +193,60 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_ba70bd80-6805-4941-af78-e3404e9a012a.xml#ba70bd80-6805-4941-af78-e3404e9a012a"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="02189f71-c698-4540-92bd-2e9358363186"
+        targetConnections="c9aa9850-b047-48d8-96f5-02a20fc7357c"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        lineColor="#5c5c5c"
+        fillColor="#dcebeb">
+      <sourceConnections
+          id="6e2710fc-a8b9-4ad6-9aaa-6be09c8b890c"
+          lineWidth="2"
+          lineColor="#000000"
+          source="02189f71-c698-4540-92bd-2e9358363186"
+          target="4f3f33cd-ede6-4363-b20d-982c7ec79e9a">
+        <bendpoints
+            startY="84"
+            endX="132"
+            endY="-84"/>
+        <bendpoints
+            startX="-96"
+            startY="84"
+            endX="36"
+            endY="-84"/>
+      </sourceConnections>
+      <sourceConnections
+          id="07162fda-011e-4c5e-90fb-7d0a2a64bbf3"
+          lineWidth="2"
+          lineColor="#000000"
+          source="02189f71-c698-4540-92bd-2e9358363186"
+          target="b8b39c32-d4cf-45bc-a842-60a52e98e3c6">
+        <bendpoints
+            startY="84"
+            endX="264"
+            endY="-84"/>
+        <bendpoints
+            startX="-216"
+            startY="84"
+            endX="48"
+            endY="-84"/>
+      </sourceConnections>
+      <bounds
+          x="276"
+          y="36"
+          width="120"
+          height="73"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_369aab07-a4a5-40f4-9c85-f4a47ce6199d.xml#369aab07-a4a5-40f4-9c85-f4a47ce6199d"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="8ae3a447-28db-4417-9ef7-a750675e1cee"
       name="03 Leveren van bestellingen"
-      targetConnections="c9aa9850-b047-48d8-96f5-02a20fc7357c"
+      targetConnections="908e1908-3375-4197-bd73-030eae82c34b"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#d2d7d7">
@@ -205,34 +255,7 @@
         lineWidth="2"
         lineColor="#000000"
         source="8ae3a447-28db-4417-9ef7-a750675e1cee"
-        target="3fd93589-b91b-47db-b266-b3336a61e7e0">
-      <bendpoints
-          startX="-6"
-          startY="86"
-          endX="-6"
-          endY="-94"/>
-    </sourceConnections>
-    <sourceConnections
-        id="8dafc844-e5db-49c6-8944-2acc2123772c"
-        lineColor="#000000"
-        source="8ae3a447-28db-4417-9ef7-a750675e1cee"
-        target="5eda60d8-40f3-40a1-bb79-b89022ed7ef5">
-      <bendpoints
-          startX="18"
-          startY="86"
-          endX="-102"
-          endY="-270"/>
-      <bendpoints
-          startX="294"
-          startY="86"
-          endX="174"
-          endY="-270"/>
-      <bendpoints
-          startX="294"
-          startY="362"
-          endX="174"
-          endY="6"/>
-    </sourceConnections>
+        target="3fd93589-b91b-47db-b266-b3336a61e7e0"/>
     <bounds
         x="36"
         y="336"
@@ -241,7 +264,7 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="b8b39c32-d4cf-45bc-a842-60a52e98e3c6"
-        targetConnections="03fc9126-d709-42e6-bda4-f0750e596d13"
+        targetConnections="03fc9126-d709-42e6-bda4-f0750e596d13 07162fda-011e-4c5e-90fb-7d0a2a64bbf3 8f480d44-52a8-4e57-8b0c-8feb8afb146d"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         lineColor="#5c5c5c"
         fillColor="#dcebeb">
@@ -257,7 +280,7 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="4f3f33cd-ede6-4363-b20d-982c7ec79e9a"
-        targetConnections="51239913-3ee9-46c4-8dfe-a1d41fd9bab3"
+        targetConnections="6e2710fc-a8b9-4ad6-9aaa-6be09c8b890c 51239913-3ee9-46c4-8dfe-a1d41fd9bab3 33d6d23d-9e74-47c7-a8ef-74a712e78fab"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         lineColor="#5c5c5c"
         fillColor="#dcebeb">
@@ -279,7 +302,7 @@
       <bounds
           x="276"
           y="24"
-          width="133"
+          width="121"
           height="97"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -292,7 +315,7 @@
         lineColor="#5c5c5c"
         fillColor="#dcebeb">
       <bounds
-          x="420"
+          x="408"
           y="24"
           width="120"
           height="97"/>
@@ -314,17 +337,12 @@
         lineWidth="2"
         lineColor="#000000"
         source="3fd93589-b91b-47db-b266-b3336a61e7e0"
-        target="7b0633a9-723e-4dcd-a046-0164c86c6e11">
+        target="5d5bc46a-affe-47a0-9372-88f5023252fa">
       <bendpoints
-          startX="6"
+          startX="-6"
           startY="98"
-          endX="138"
-          endY="-78"/>
-      <bendpoints
-          startX="-126"
-          startY="98"
-          endX="6"
-          endY="-78"/>
+          endX="-6"
+          endY="-82"/>
     </sourceConnections>
     <bounds
         x="36"
@@ -365,7 +383,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="5d5bc46a-affe-47a0-9372-88f5023252fa"
-      name="Gebruik van materiaal"
+      name="05 Gebruik van digitale leermiddelen"
+      targetConnections="1e47a803-ab1f-49aa-9694-2b6de8414a92"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#d2d7d7">
@@ -377,7 +396,6 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="7b0633a9-723e-4dcd-a046-0164c86c6e11"
-        targetConnections="1e47a803-ab1f-49aa-9694-2b6de8414a92"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         lineColor="#5c5c5c"
         fillColor="#dcebeb">
@@ -393,7 +411,6 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="5eda60d8-40f3-40a1-bb79-b89022ed7ef5"
-        targetConnections="8dafc844-e5db-49c6-8944-2acc2123772c"
         lineColor="#5c5c5c"
         fillColor="#dcebeb">
       <bounds
@@ -405,18 +422,5 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_72b46fab-54b2-41e6-8b58-f61593fec90f.xml#72b46fab-54b2-41e6-8b58-f61593fec90f"/>
     </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="4dde6707-b62a-437b-9aa4-07e98d2b0468"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="Bestellingen van de onderwijsinstelling">
-    <bounds
-        x="588"
-        y="132"
-        width="122"
-        height="56"/>
   </children>
 </archimate:ArchimateDiagramModel>

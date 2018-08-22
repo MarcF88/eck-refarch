@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="05b scenario Gebruik vanuit distributeursportaal"
+    name="05b Gebruik vanuit distributeursportaal"
     id="72b46fab-54b2-41e6-8b58-f61593fec90f"
     documentation="Start: lijst met bestelde materialen van de leerling beschikbaar in portaal&#xD;&#xA;&#xD;&#xA;Stappen:&#xD;&#xA;Onderwijsvolger logt in op portaal&#xD;&#xA;Elecctronische leeromgeving haalt links op voor leerling (ECK ID) en productgegevens (EAN) voor alle links&#xD;&#xA;Onderwijsvolger navigeert naar lijst met links van zijn bestelde content&#xD;&#xA;Onderwijsvolger klikt op link&#xD;&#xA;Browser leerling opent pagina met toegangsservice van uitgever&#xD;&#xA;Handler haalt ECK ID en attributen op van onderwijsvolger bij SSO service&#xD;&#xA;Handler valideert toegang en credit (ECK ID, EAN)&#xD;&#xA;Handler stuurt leerling door naar Educatieve applicatie&#xD;&#xA;Onderiwjsvolger gebruikt educatieve applicatie&#xD;&#xA;&#xD;&#xA;Eindresultaat: leerling heeft toegang tot zijn bestelde content&#xD;&#xA;">
   <children

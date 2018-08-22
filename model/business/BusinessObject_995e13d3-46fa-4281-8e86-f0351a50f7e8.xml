@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Credits op naam (Org ID, KetenID, SchoolID)"
+    name="Credits op naam (Org ID, ECK iD, SchoolID)"
     id="995e13d3-46fa-4281-8e86-f0351a50f7e8"
     documentation="Start: uitgever kent de lijst met credits voor leerling met ECK ID  Stappen:  Eindresultaat: Lijst met bestelde materialen  (links) voor onderwijsvolger beschikbaar in portaal van de onderwijsinstelling"/>

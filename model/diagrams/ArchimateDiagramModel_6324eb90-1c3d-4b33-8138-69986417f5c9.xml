@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="03d scenario rechtstreeks leveren van bestelling IDP last"
+    name="03d Rechtstreeks leveren van bestelling IDP last"
     id="6324eb90-1c3d-4b33-8138-69986417f5c9"
     documentation="Start: leerling = besteller, is ingelogd op school, gebruikt ECK ID en SSO.&#xD;&#xA;&#xD;&#xA;Leerling logt in bij op school&#xD;&#xA;Leerling navigeert in portaal naar link naar bestelomgeving(en) distributeur&#xD;&#xA;Leerling wordt geautheticeerd bij distributeur (SSO) en gekoppeld aan keten ID&#xD;&#xA;Leerling landt op gepersonaliseerde bestelpagina&#xD;&#xA;Leerling bestelt&#xD;&#xA;&#xD;&#xA;Eindresultaat: lijst met bestellingen van leerling (geidentificeerd met keten ID ) beschikbaar bij uitgever&#xD;&#xA;">
   <children

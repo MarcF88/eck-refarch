@@ -1,12 +1,11 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Op basis van ECK iD"
-    id="a90da2b3-c6d9-462e-ba4e-6d36938819a5">
+    id="421b633d-d8a2-4798-96b4-b500c95bc6e8">
   <source
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_e78d4f38-f7bd-4109-856e-2422850783ad.xml#e78d4f38-f7bd-4109-856e-2422850783ad"/>
-  <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_a778a767-e9dc-436f-bb95-bb995cd03135.xml#a778a767-e9dc-436f-bb95-bb995cd03135"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_b133e65d-0b33-4433-bb84-19c24187fd63.xml#b133e65d-0b33-4433-bb84-19c24187fd63"/>
 </archimate:ServingRelationship>

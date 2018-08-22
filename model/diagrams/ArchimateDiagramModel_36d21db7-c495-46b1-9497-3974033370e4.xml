@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="03c scenario leveren van bestelling via ketenvoorziening met prematch"
+    name="03c Leveren van bestelling via ketenvoorziening met prematch"
     id="36d21db7-c495-46b1-9497-3974033370e4"
     documentation="&#xD;&#xA;Start: ?&#xD;&#xA;&#xD;&#xA;Stappen&#xD;&#xA;&#xD;&#xA;Eindresultaat: Uitgever heeft credits voor alle materiaal dat de leerling besteld heeft op basis van keten ID&#xD;&#xA;">
   <children
