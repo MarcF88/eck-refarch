@@ -324,6 +324,10 @@
           lineColor="#000000"
           source="451dee1b-3371-45e1-bae0-58a88de093ca"
           target="bdb8a372-0600-4e45-aff5-d596bbb93cee">
+        <bendpoints
+            startX="-24"
+            startY="-120"
+            endX="132"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_b9ee86af-f1c8-41a1-a89c-42addd1739e3.xml#b9ee86af-f1c8-41a1-a89c-42addd1739e3"/>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="02c Bestellen door school (ILF)"
+    name="02c Bestellen door onderwijsinstelling (ILF)"
     id="369aab07-a4a5-40f4-9c85-f4a47ce6199d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -92,10 +92,19 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_ed95a89e-694a-488b-a57e-24bb3ef85fbf.xml#ed95a89e-694a-488b-a57e-24bb3ef85fbf"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="d03a5111-cac2-43bd-baba-4298dd78f8e2"
+        source="04ac21d8-c028-4690-9b8b-835a5643c39f"
+        target="854e43c5-a6d4-4032-9fe0-79efca251865">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_b1b70142-b0b8-4a64-91a6-11051dedf014.xml#b1b70142-b0b8-4a64-91a6-11051dedf014"/>
+    </sourceConnections>
     <bounds
-        x="516"
+        x="480"
         y="180"
-        width="265"
+        width="325"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -103,14 +112,39 @@
         targetConnections="8135000e-88e7-4031-a19d-eb79d20fdcf1"
         lineColor="#5c5c5c"
         fillColor="#afffff">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="a7f99484-3775-436c-96a0-e6e660793a26"
+          lineColor="#000000"
+          source="c6884522-c0c7-4431-87a1-9bca9b44f859"
+          target="854e43c5-a6d4-4032-9fe0-79efca251865">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_667d6586-50a6-4dfd-b812-168c8aa816a1.xml#667d6586-50a6-4dfd-b812-168c8aa816a1"/>
+      </sourceConnections>
       <bounds
-          x="72"
+          x="24"
           y="48"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_a778a767-e9dc-436f-bb95-bb995cd03135.xml#a778a767-e9dc-436f-bb95-bb995cd03135"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="854e43c5-a6d4-4032-9fe0-79efca251865"
+        targetConnections="d03a5111-cac2-43bd-baba-4298dd78f8e2 a7f99484-3775-436c-96a0-e6e660793a26"
+        lineColor="#5c5c5c"
+        fillColor="#e6ffe6">
+      <bounds
+          x="180"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_139692a3-9f04-4cca-803c-4db04027bafd.xml#139692a3-9f04-4cca-803c-4db04027bafd"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"

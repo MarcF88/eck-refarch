@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="02d Bestellen door leerling bij distributeur (ELF)"
+    name="02d Bestellen door onderwijsvolger bij distributeur (ELF)"
     id="06d3fbfc-5496-40a9-bf54-c7a2449f97a1"
     documentation="Start: geen vooronderstellingen over leerling. Besteller hoeft niet leerling te zijn. ECK ID en SSO niet nodig.&#xD;&#xA;&#xD;&#xA;Besteller logt in bij distributeur&#xD;&#xA;Besteller navigeert naar bestelomgeving voor zijn school&#xD;&#xA;Besteller bestelt&#xD;&#xA;&#xD;&#xA;Eindresultaat: lijst met bestellingen van besteller (geidentificeerd met ID van distributeur) beschikbaar">
   <children

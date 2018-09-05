@@ -324,17 +324,4 @@
         width="185"
         height="80"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="06c94ece-019f-4745-bdea-557f05a2be73"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="Minimum scenario: bestellen en toegang via distributeur. Kan met en zonder ECK ID bestellen en eventueel ook toegang krijgen zonder ECK ID.&#xD;&#xA;">
-    <bounds
-        x="768"
-        y="696"
-        width="217"
-        height="80"/>
-  </children>
 </archimate:ArchimateDiagramModel>
